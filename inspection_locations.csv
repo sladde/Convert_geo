@@ -1,0 +1,783 @@
+location_city,location_name,location_street_address,location_street_address_2,location_state,location_zip_code,region,logged_at
+Lansing,Denny's Auto Diagnosis,2738 N Grand River Ave,,MI,48906,LAN,2017-11-29 21:31:17
+Riverdale,Elks - Hyattsville,6700 Kenilworth Ave,,MD,20737,DCA,2017-11-29 21:31:19
+Grand Rapids,Jack's Service Center,850 Leonard St NW,,MI,49504,GRR,2017-11-29 21:31:17
+Tampa,Pep Boys - Gunn Hwy,6022 Gunn Hwy,,FL,33624,TPA,2017-11-29 21:31:11
+Kingman,Midtown Auto Center,2790 Airway Avenue,,AZ,86409,LAB,2017-11-29 21:31:25
+El Cajon,Pep Boys El Cajon,201 Jamacha Rd,,CA,92019,SAN,2017-11-29 21:31:12
+Alexandria,Wiygul Automotive - Lane Dr.,6001 Lane Dr,,VA,22304,DCA,2017-11-29 21:31:18
+Apple Valley,Midas Apple Valley,15455 South Cedar Avenue,,MN,55124,MSP,2017-08-24 15:25:44
+Clovis,Jiffy Lube - Fresno,240 W Ashlan Ave,,CA,93612,FAT,2017-05-09 20:01:06
+GREENVILLE,National Tire & Battery Greenville - Chalmers Rd,108 CHALMERS ROAD,,SC,29605,GSP,2017-11-29 21:31:23
+Elk Grove,Elk Grove - Goodyear,8922 Elk Grove Blvd,,CA,95624,SMF,2017-11-29 21:31:26
+Inglewood,Pep Boys Spruce Ave,200 E Spruce Ave,,CA,90301,LAX,2017-11-29 21:31:28
+COLORADO SPRINGS,TECHNET Colorado Springs - Eagle Tire,1985 B St,,CO,80906,COS,2017-11-29 21:31:30
+Bellflower,Pep Boys - Artesia Blvd,8533 Artesia Blvd,,CA,90706,LAX,2017-11-29 21:31:30
+Breckenridge,Residence Inn Marriott Breckenridge,600 South Ridge Street,,CO,80424,VBC,2017-11-29 21:31:22
+Lombard,Pep Boys Lombard,851 E Roosevelt Rd,,IL,60148,CHI,2017-11-29 21:31:11
+Folsom,Folsom - Big O Tires,185 Blue Ravine Road,,CA,95630,SMF,2017-11-29 21:31:28
+Ann Arbor,Belle Tire (Ann Arbor - W. Ellsworth Rd.),590 W Ellsworth Road,,MI,48108,ARB,2017-11-29 21:31:19
+Apple Valley,Midas - Apple Valley (NO LYFT REP.),15455 South Cedar Avenue,,MN,55124,MSP,2017-11-29 21:31:26
+GREENVILLE,National Tire & Battery Greenville - White Horse Rd,6141 WHITE HORSE RD,,SC,29611,GSP,2017-11-29 21:31:30
+Colorado Springs,432 W. Garden of the Gods Road,432 W. Garden of the Gods Road,,CO,80907,COS,2017-07-26 18:28:41
+Taylors,(864) 558-2173,2918 Wade Hampton Boulevard,,SC,29687,GSP,2017-07-26 22:24:08
+Fairfield,Meineke Car Care Center - Fairfield,1525-B Holiday Lane,,CA,94534,STS,2017-05-10 23:22:48
+Ventura,Pep Boys - Thompson Blvd,2705 E Thompson Blvd,,CA,93003,OXR,2017-09-15 22:04:06
+Detroit,Hawthorn Suites By Wyndham Dearborn/Detroit MI,5777 Southfield Freeway,,MI,48228,DTW,2017-03-16 13:38:02
+Stockton,Pep Boys -- South Stockton,845 Dr M.L.K. Jr Blvd,,CA,95206,SCK,2017-03-24 21:41:10
+N Little Rock,Pep Boys - N Little Rock,4228 E Mccain Blvd,,AR,72117,LIT,2017-11-29 21:31:25
+Palatine,Pep Boys - Palatine,315 W Northwest Hwy,,IL,60067,CHI,2017-11-29 21:31:27
+Pullman,Pro Tech Auto Repair,1200 SE Latah St,,WA,99163,PUW,2017-11-29 21:31:19
+Westchester,Pep Boys - Manchester Ave,6136 W Manchester Ave,,CA,90045,LAX,2017-11-29 21:31:30
+Grands Rapids,Pep Boys Auto Parts & Service,3737 Alpine Ave NW,,MI,49321,GRR,2017-11-29 21:31:29
+Fayetteville,Firestone,2876 E. Mission Blvd,,AR,72703,XNA,2017-11-29 21:31:31
+Santa Fe,Automotive Resources,827 Cam De Monte Rey,,NM,87505,SAF,2017-11-29 21:31:07
+Spokane Valley,Clark's Tire & Automotive,16010 E Sprague Ave,,WA,99037,GEG,2017-11-29 21:31:31
+Plantation,The V Shop,1391 NW 65th Terrace,,FL,33313,MIA,2017-11-29 21:31:20
+Kitchener,AAMCO of Kitchener,227 Manitou Drive,,ON,N2C 1L4,YTZ,2017-11-29 21:31:34
+Saginaw,Rick's Automotive,1935 E Genesee Ave,,MI,48601,MBS,2017-11-29 21:31:18
+Union,Pep Boys - Union NJ,2525 RT 22 WEST,,NJ,7083,NYC,2017-11-29 21:31:12
+Temple Hills,Pep Boys - Marlow Heights,4500 St Barnabas Rd,,MD,20748,DCA,2017-11-29 21:31:12
+Chicago,Chicago Hub,3976 N. Avondale Ave.,,IL,60641,CHI,2017-12-02 17:36:46
+Albuquerque,6632 Caminito Coors NW,6632 Caminito Coors NW,,NM,87120,ABQ,2017-07-26 18:00:02
+Niles,Pep Boys Niles (new),9643.5 N Milwaukee Ave.,,IL,60714,CHI,2017-08-17 20:38:24
+San Jose,Pep Boys Auto Parts & Service,3780 Stevens Creek Boulevard,,CA,95117,CRZ,2017-03-27 18:40:45
+Ann Arbor,Belle Tire Ann Arbor Washtenaw Ave,3501 Washtenaw Avenue,,MI,48104,ARB,2017-04-13 17:44:12
+Grand Island,Personal Automotive Services,2404 W Old Lincoln Hwy,,NE,68803,WNE,2017-11-29 21:31:26
+North Miami Beach,DJ Auto Collision Center,17080 NW 3rd Ave,,FL,33169,MIA,2017-11-29 21:31:17
+East Brunswick,Pep Boys - East Brunswick NJ,575 NJ-18 South,,NJ,8816,NYC,2017-11-29 21:31:15
+Downey,Pep Boys - Lakewood,10231 Lakewood Blvd,,CA,90241,LAX,2017-11-29 21:31:32
+Cerritos,Cerritos,11944 South St,,CA,90703,OCX,2017-11-29 21:31:07
+BIRMINGHAM,National Tire & Battery Birmingham - Gadsden Hwy,330 GADSDEN HIGHWAY,,AL,35235,BHM,2017-11-29 21:31:20
+Morgan Hill,Big O Tires - Morgan Hill,15745 Monterey Rd,,CA,95037,SCK,2017-11-29 21:31:20
+Rogers,Johns Auto Repair,730 W Laurel Cir,,AR,72758,XNA,2017-11-29 21:31:31
+Niles,Pep Boys Niles,9643.5 N Milwaukee Ave.,,IL,60714,CHI,2017-11-29 21:31:10
+Santa Barbara,Jiffy Lube - Santa Barbara,932 De La Vina St,,CA,93101,SBA,2017-11-29 21:31:27
+Olympia,Meineke,517 4th Ave,,WA,98501,KLS,2017-11-29 21:31:16
+Minneapolis,Bobby & Steve's - Minneapolis (NO LYFT REP.),1221 Washington Avenue S.,,MN,55415,MSP,2017-08-24 19:52:20
+Alexandria,Wiygul Automotive - 6001 Lane Dr Alexandria,6001 Lane Dr,,VA,22304,DCA,2017-04-12 19:08:50
+San Diego,Miramar,8999 Activity Rd,,CA,92126,SAN,2017-08-16 22:03:21
+Manteca,Jiffy Lube - Manteca,1130 N Main St,,CA,95336,SCK,2017-09-26 19:26:12
+Las Vegas,Las Vegas Local Office,7255 South Tenaya Way,,NV,89113,ENV,2017-12-05 01:37:32
+Stockton,Les Schwab Tire Center - Stockton (Charter Way),1717 W Charter Way,,CA,95206,SCK,2017-05-10 01:45:46
+Miami,Advanced Auto Diagnostic II,1779 W Flagler St,,FL,33135,MIA,2016-11-17 19:22:21
+Oak Lawn,Pep Boys Oak Lawn,4143 W. 95th St.,,IL,60453,CHI,2017-11-29 21:31:11
+Bowling Green,Lee Myles Transmissions & AutoCare,945 US-31 BYP,,KY,42101,BWG,2017-11-29 21:31:29
+Vallejo,Les Schwab Tire Center - Vallejo,3301 Sonoma Blvd,,CA,94590,STS,2017-11-29 21:31:21
+Hackensack,Pep Boys - Hackensack NJ,65 Court St,,NJ,7601,NYC,2017-11-29 21:31:17
+Hot Springs,Sears Auto Center,4501 Centeral Ave 101,,AR,71913,LIT,2017-11-29 21:31:31
+King City,Tire King & Auto Express - King City,112 1st St,,CA,93930,MRY,2017-11-29 21:31:26
+MARQUETTE,SOUTHSIDE AUTOMOTIVE INC,260-200 Oakbrook Ln,,MI,49855,MQT,2017-11-29 21:31:15
+Saline,Bill Crispin Chevrolet,7112 E Michigan Ave,,MI,48176,ARB,2017-11-29 21:31:24
+Greenville,National Tire & Battery Greenville - Woodruff Rd,1503 WOODRUFF ROAD,,SC,29607,GSP,2017-11-29 21:31:25
+Castle Rock,Douglas County Fair Grounds  - Kirk Hall,500 Fairgrounds Rd,,CO,80104,DEN,2017-11-29 21:31:34
+Benicia,Big O Tires - Benicia,415 Military E,,CA,94510,STS,2017-11-29 21:31:24
+Lakewood,Pep Boys - S. Wadsworth Blvd,5134 S. Wadsworth Blvd,,CO,80123,DEN,2017-11-29 21:31:23
+Arroyo Grande,Jiffy Lube - Arroyo Grande,495 E Grand Ave,,CA,93420,SBP,2017-11-29 21:31:27
+Vallejo,Jiffy Lube - Vallejo,4300 Sonoma Blvd,,CA,94589,STS,2017-11-29 21:31:21
+Mobile,AAMCO Mobile - Hillcrest Rd,940 Hillcrest Road,,AL,36695,MOB,2017-11-29 21:31:23
+Ann Arbor,Suburban Chevrolet,3515 Jackson Rd,,MI,48103,ARB,2017-11-29 21:31:13
+Minneapolis,Bobby & Steve's AW Washington (NO LYFT REP.),1221 Washington Avenue S.,,MN,55415,MSP,2017-08-24 16:17:12
+La Habra,Pep Boys - La Habra,125 W Imperial Hwy,,CA,90631,LAX,2017-11-01 19:58:29
+Deatur,National Tire & Battery Huntsville - Beltline Rd,902 Beltline Rd.,,AL,35601,HSV,2017-08-03 21:54:26
+Stockton,Les Schwab Tire Center - Stockton (Hammer Ln),3554 E Hammer Ln,,CA,95212,SCK,2017-05-11 23:39:31
+Bloomington,321 South Main Street,321 South Main Street,,IL,61701,BMI,2017-07-26 19:40:53
+Scottsdale,Pep Boys Scottsdale,2524 N Scottsdale Rd,,AZ,85257,PHX,2017-05-01 23:55:52
+Cathedral City,Pep Boys - Cat City,31-505 Date Palm Dr,,CA,92234,SBD,2017-11-30 02:13:03
+San Mateo,San Mateo - Big O Tires,2160 S El Camino Real,,CA,94403,SFO,2017-11-29 21:31:34
+Denver,Pep Boys - Broadway,487 S Broadway,,CO,80209,DEN,2017-11-29 21:31:23
+Cathedral City,Cathedral City,31-505 Date Palm Dr,,CA,92234,SBD,2017-11-29 21:31:32
+Antioch,Antioch - Wheel Works,2024 A St,,CA,94509,SFO,2017-11-29 21:31:27
+Benicia,Jiffy Lube - Benicia,2026 Columbus Pkwy,,CA,94510,STS,2017-11-29 21:31:22
+Miami,Raul Auto Repair,14714 SW 56th St,,FL,33185,MIA,2017-11-29 21:31:19
+Whitby,AAMCO of Whitby,305 Hopkins Street,,ON,L1N 2C1,YTZ,2017-11-29 21:31:34
+San Francisco,The Lyft Hub,2300 26th Street,,CA,94107,SJC,2017-11-29 21:31:11
+Minneapolis,Bobby & Steve's - Cedar Lake (NO LYFT REP.),328 South Cedar Lake Rd,,MN,55405,MSP,2017-08-24 16:31:35
+Phoenix,Phoenix Lyft Hub,4050 E. Cotton Center Blvd,,AZ,85040,PHX,2017-10-03 01:13:03
+Berkeley,Berkeley - Midas +1 510-849-1400,1835 San Pablo Ave,,CA,94703,SFO,2017-09-06 23:22:30
+Vallejo,Pep Boys - Gateway Plaza Vallejo,Gateway Plaza 128 Plaza Dr,,CA,94591,STS,2017-03-27 21:44:06
+Sacramento,Pep Boys - Northgate,3534 Northgate Blvd,,CA,95834,SMF,2017-02-28 01:27:41
+Fresno,Pep Boys Downtown Fresno,716 Broadway St Fresno,,CA,93721,FAT,2017-02-02 02:07:45
+Arlington,Lyft DC Hub (paid parking),2011 Crystal Drive,,VA,22202,DCA,2017-01-31 18:57:23
+Oakland,Oakland Hub Lite,2408 Mandela Pkwy,,CA,94607,SFO,2017-11-30 20:33:12
+Oxnard,Pep Boys - Oxnard,939 S Oxnard Blvd,,CA,93030,OXR,2017-11-29 21:31:21
+West Los Angeles,Pep Boys - Sepulveda Blvd,1992 S Sepulveda Blvd,,CA,90025,LAX,2017-11-29 21:31:29
+Napa,Les Schwab Tire Center - Napa,830 W Imola Ave,,CA,94559,STS,2017-11-29 21:31:20
+Dublin,Wheel Works,7100 Regional St,,CA,94568,SFO,2017-11-29 21:31:27
+Miami,Green's Garage,2221 SW 32nd Ave,,FL,33145,MIA,2017-11-29 21:31:10
+Rohnert Park,Pep Boys - Rohnert Park,4805 Redwood Dr,,CA,94928,STS,2017-11-29 21:31:17
+Summerville,AAMCO Summerville - Old Trolley Rd,1550 Old Trolley Road,,SC,29485,CHS,2017-11-29 21:31:24
+Pullman,Evergreen Tire,300 NE Stadium Way,,WA,99163,PUW,2017-11-29 21:31:31
+Milpitas,Wheel Works - Milpitas,2 N Abel St,,CA,95035,SJC,2017-11-29 21:31:29
+Yakima,Autometrics,813 N Front St,,WA,98901,YKM,2017-11-29 21:31:13
+Santa Barbara,The Tire Pros,401 W Carrillo St,,CA,93101,SBA,2017-11-29 21:31:25
+St Helena,OK Tire - St Helena,910 Dowdell Ln,,CA,94574,STS,2017-11-29 21:31:20
+MESA,Discount Tire - Mesa,1910 N POWER RD,,AZ,85205,PHX,2017-11-29 21:31:20
+Hollywood,Mike's Great Bear Auto,2804 Hollywood Blvd,,FL,33020,MIA,2017-07-05 21:43:00
+Ann Arbor,Midas (Jackson Ave),2395 Jackson Ave.,,MI,48103,ARB,2017-06-02 02:58:45
+Modesto,Meineke - Modesto,401 Bangs Ave F,,CA,95356,MOD,2017-11-29 21:31:20
+Yuba City,Jiffy Lube - Yuba City,1331 Bridge St,,CA,95993,YAS,2017-11-29 21:31:09
+Lansing,Pep Boys - Lansing,17015 Torrence Ave,,IL,60438,CHI,2017-11-29 21:31:31
+Paterson,Pep Boys - Paterson NJ,261 McLean Blvd,,NJ,7504,NYC,2017-11-29 21:31:12
+St Charles,Pep Boys - St. Charles,2010 W Main St,,IL,60174,CHI,2017-11-29 21:31:28
+Vallejo,Pep Boys - Vallejo,Gateway Plaza 128 Plaza Dr,,CA,94591,STS,2017-11-29 21:31:17
+Flagstaff,Valvoline,1061 W Rte 66,,AZ,86001,FLG,2017-11-29 21:31:11
+Santee,Pep Boys -  Santee,10041 Mission Gorge Rd,,CA,92071,SAN,2017-11-29 21:31:30
+Everett,Pep Boys- Everett,10113 Evergreen Way,,WA,98204,SEA,2017-11-29 21:31:24
+Elgin,Pep Boys - Elgin,1020 Summit St,,IL,60120,CHI,2017-11-29 21:31:30
+Ann Arbor,Midas of Ann Arbor (Washtenaw),3170 Washtenaw Avenue,,MI,48104,ARB,2017-11-29 21:31:22
+Lone Tree,Pep Boys - Park Meadows Dr.,7469 Park Meadows Dr,,CO,80124,DEN,2017-11-29 21:31:24
+Minneapolis,Bobby & Steve's - Washington (NO LYFT REP.),1221 Washington Avenue S.,,MN,55415,MSP,2017-08-24 17:12:11
+Riverdale,Lyft at Elks - Hyattsville,6700 Kenilworth Ave,,MD,20737,DCA,2017-03-23 15:52:28
+Ann Arbor,TECHNET Ann Arbor - Lous Wolverine Transmission,1904 Packard Rd,,MI,48104,ARB,2017-07-27 21:22:52
+El Cajon,Pep Boys - El Cajon,201 Jamacha Rd,,CA,92109,SAN,2017-10-20 18:08:54
+Toms River,Pep Boys - Toms River NJ,301 NJ-37 E,,NJ,8753,NYC,2017-11-29 21:31:12
+FORT COLLINS,TECHNET Ft. Collins - Ken's Muffler Shop,1219 NORTH COLLEGE AVE,,CA,80524,FNL,2017-11-29 21:31:26
+Cerritos,Pep Boys -- Cerritos Reinspection,11944 South St,,CA,90703,OCX,2017-11-29 21:31:33
+Greenville,AAMCO Greenville - Mauldin Rd,411 Mauldin Road,,SC,29605,GSP,2017-11-29 21:31:23
+Vacaville,Jiffy Lube - Vacaville,1013 E Monte Vista Ave,,CA,95688,STS,2017-11-29 21:31:20
+Versailles,Meineke Car Care Center,220 Crossfield Dr,,KY,40383,LEX,2017-11-29 21:31:28
+Pinellas Park,Pep Boys - Pinellas Park,6492 Park Blvd N,,FL,33781,TPA,2017-11-29 21:31:11
+CHARLESTON,National Tire & Battery Charleston - Savannah Hwy,1905 SAVANNAH HIGHWAY,,SC,29407,CHS,2017-11-29 21:31:23
+Napa,Big O Tires - Napa,442 Soscol Ave,,CA,94559,STS,2017-11-29 21:31:30
+Fox River Grove,Pep Boys - Fox River Grove,910 Northwest Hwy Unit 100,,IL,60021,CHI,2017-11-29 21:31:28
+Aurora,Elevations Church,15600 E Alameda Pkwy,,CO,80017,DEN,2017-11-29 21:31:15
+Mt Pleasant,Auto Lab,402 N Mission St,,MI,48858,MOP,2017-11-29 21:31:09
+San Luis Obispo,B & B Collision Repair - San Luis Obispo,845 Fiero Ln,,CA,93401,SBP,2017-11-29 21:31:27
+GREENVILLE,1,6141 WHITE HORSE RD,,SC,29611,GSP,2017-08-03 23:28:04
+Tuba City,Cal' Auto Body & Repair Shop,345 U 160,,AZ,86045,NAZ,2017-09-01 00:29:23
+Santa Cruz,Firestone Complete Auto Repair,510 Water St,,CA,95060,CRZ,2017-01-20 22:46:11
+Scio,Belle Tire Scio,4049 Jackson Road,,MI,48103,ARB,2017-04-13 17:44:36
+St. Paul,Meineke St. Paul,865 University Ave W,,MN,55104,MSP,2017-12-04 00:22:46
+Aurora,Summit Event Center,Sixth & Sable Plaza 411 Sable Blvd,,CO,80011,DEN,2017-11-30 19:48:14
+Kalamazoo,AAMCO Kalamazoo - Portage St,541 Portage Street,,MI,49007,AZO,2017-11-29 21:31:31
+Aurora,Concentra UrgentCare Aurora Chambers Rd.,3449 Chambers Rd b,,CO,80011,DEN,2017-11-29 21:31:21
+North Platte,T.O Haas Tire & Auto,1919 W Rodeo Rd Ave,,NE,69101,WNE,2017-11-29 21:31:26
+Streamwood,Pep Boys - Streamwood,160 Barrington Rd,,IL,60107,CHI,2017-11-29 21:31:34
+Chula Vista,Pep Boys Chula Vista,1000 Tierra Del Rey,,CA,91910,SAN,2017-11-29 21:31:10
+Fayetteville,AAMCO,3270 N College Ave,,AR,72703,XNA,2017-11-29 21:31:13
+ALABASTER,National Tire & Battery Alabaster - Jimmy Gould Dr,70 JIMMY GOULD DRIVE,,AL,35007,BHM,2017-11-29 21:31:24
+Fresno,Pep Boys Fresno,5615 E Kings Canyon Rd,,CA,93727,ECA,2017-11-29 21:31:24
+Washington,Logan Circle,1100 Rhode Island Ave NW,,DC,20005,DCA,2017-11-29 21:31:20
+Arlington Heights,Pep Boys - Arlington Heights,375 E Rand Rd,,IL,60004,CHI,2017-11-29 21:31:30
+Inver Grove Heights,Pep Boys - Inver Grove Heights (NO LYFT REP.),1426 Mendota Rd E,,MN,55077,MSP,2017-11-29 21:31:25
+Ham Lake,Victory Auto - Ham Lake (NO LYFT REP.),16326 Highway 65 NE,,MN,55304,MSP,2017-08-24 20:02:28
+Columbia,National Tire & Battery Columbia - Sunset Blvd,5450 SUNSET BOULEVARD,,SC,29072,CAE,2017-08-03 22:20:48
+Truckee,Advanced Body & Frame,10745 W River St,,CA,96161,TVL,2017-05-09 19:01:42
+East Brunswick,Pep Boys - East Brunswick,575 NJ-18,,NJ,8816,NYC,2017-01-26 23:14:44
+Chicago,Pep Boys (Elston),2604 N Elston Avenue,,IL,60647,CHI,2017-11-30 15:00:23
+Healdsburg,Healdsburg - Big O Tires,1115 Healdsburg Ave,,CA,95448,STS,2017-11-29 21:31:15
+Eden Prairie,Bobby & Steve's - Eden Prairie (NO LYFT REP.),8100 Flying Cloud Drive,,MN,55344,MSP,2017-11-29 21:31:24
+San Luis Obispo,Jiffy Lube - San Luis Obispo,110 Higuera St,,CA,93401,SBP,2017-11-29 21:31:27
+Puyallup,Pep Boys Puyallup,12228 Meridian E,,WA,98373,SEA,2017-11-29 21:31:10
+Lompoc,Big Brand Tire - Lompoc,415 W. Central,,CA,93436,SBP,2017-11-29 21:31:22
+Tallahassee,Pep Boys - North Monroe St,2525 North Monroe St,,FL,32303,TLH,2017-11-29 21:31:08
+Lost Hills,V.B Auto Truck & Diesel Repair - Lost Hills,14692 Martin Ave,,CA,93249,BFL,2017-11-29 21:31:27
+San Francisco,Midas - Alemany Blvd,1800 Alemany Blvd,,CA,94112,SFO,2017-11-29 21:31:27
+Vacaville,Les Schwab Tire Center - Vacaville,801 Mason St,,CA,95688,STS,2017-11-29 21:31:21
+Gallup,Pep Boys - Gallup,702 North Highway 491,,NM,87301,GUP,2017-11-29 21:31:32
+Crestwood,Pep Boys - Crestwood,13401 S Cicero Ave,,IL,60445,CHI,2017-11-29 21:31:37
+Sparks,Pep Boys - Sparks,300 E PRATER WAY,,NV,89431,RNO,2017-11-29 21:31:34
+Tucson,AAMCO Tucson -,7120 East Golf Links Road,,AZ,85730,TUS,2017-11-29 21:31:15
+Las Cruces,Pep Boys Las Cruces,1203 E Lohman Ave,,NM,88001,ROW,2017-11-29 21:31:24
+Gilroy,Meineke Car Care Center - Gilroy,190 Welburn Ave,,CA,95020,CRZ,2017-05-10 23:36:08
+Burnsville,Meineke Burnsville,600 Southcross Drive W,,MN,55306,MSP,2017-11-07 00:01:41
+COLORADO SPRINGS,EAGLE TIRE,1985 B St,,CO,80906,COS,2017-07-27 18:17:59
+Cicero,Pep Boys (Cicero),2501 S Cicero Ave,,IL,60804,CHI,2017-12-04 22:51:20
+Glendale,Pep Boys - Glendale,6311 W Bell Rd,,AZ,85308,PHX,2017-11-29 21:31:21
+Callaway,Pep Boys Callaway,161 N Tyndall Pkwy,,FL,32404,ECP,2017-11-29 21:31:21
+Albuquerque,Pep Boys - Alameda Blvd,1624 Alameda Blvd NW,,NM,87114,ABQ,2017-11-29 21:31:31
+Cameron Park,Big O Tires - Cameron Park,3321 Durock Rd Cameron Park CA 95682,,CA,95682,TVL,2017-11-29 21:31:21
+Chula Vista,Pep Boys CV,1000 Tierra Del Rey,,CA,91910,SAN,2017-11-29 21:31:31
+Columbia,Pep Boys Columbia - Decker Blvd,2455 Decker Blvd,,SC,29206,CAE,2017-11-29 21:31:19
+Mammoth Lakes,Figueroa's Auto,59 Sierra Park Rd,,CA,93546,EAZ,2017-11-29 21:31:25
+Detroit,The Block at Cass Park,2727 2nd Avenue,,MI,48201,DTW,2017-11-29 21:31:19
+SANTA CRUZ,TECHNET Santa Cruz - Stanford Ave,110 STANFORD AVE.,,CA,95062,CRZ,2017-11-29 21:31:24
+Steamboat Springs,Ranch at Steamboat,1800 Ranch Rd,,CO,80487,SSC,2017-11-29 21:31:23
+Modesto,Jiffy Lube - Modesto,3927 McHenry Ave,,CA,95356,MOD,2017-11-29 21:31:21
+Lincoln,Lincoln - Firestone,951 Sterling Pkwy,,CA,95648,SMF,2017-11-29 21:31:28
+ALABASTER,70 JIMMY GOULD DRIVE,70 JIMMY GOULD DRIVE,,AL,35007,BHM,2017-08-03 22:01:12
+Ann Arbor,Belle Tire (Ann Arbor),3501 Washtenaw Avenue,,MI,48104,ARB,2017-04-13 19:39:22
+San Jose,Behind South Bay Church,1188 Murphy Avenue,,CA,95131,SJC,2016-10-17 00:27:30
+Aliso Viejo,Pep Boys - Aliso Viejo,26881 Aliso Creek Rd,,CA,92656,OCX,2017-11-02 22:56:41
+Los Angeles,Pep Boys - Crenshaw Blvd,3737 Crenshaw Blvd,,CA,90016,LAX,2017-11-29 21:31:28
+Merced,Big O Tires - Merced,1261 W 18th St,,CA,95340,MCE,2017-11-29 21:31:27
+Columbia,Pep Boys Columbia - Broad River Rd,1804 Broad River Rd,,SC,29210,CAE,2017-11-29 21:31:12
+SIMPSONVILLE,National Tire & Battery Simpsonv - Sunset Blvd,26 RAY E TALLEY COURT,,SC,29680,GSP,2017-11-29 21:31:30
+Fort Collins,TECHNET Fort Collins - Community Automotive Center,1925 S Timberline Rd,,CO,80525,FNL,2017-11-29 21:31:23
+Salem,AAMCO Salem - Liberty St,1855 Liberty Street NE,,OR,97303,SLE,2017-11-29 21:31:23
+Cicero,Pep Boys Cicero,2501 S Cicero Ave,,IL,60804,CHI,2017-11-29 21:31:10
+Ham Lake,Victory Auto Service & Glass - Ham Lake (NO LYFT REP.),16326 Highway 65 NE,,MN,55304,MSP,2017-11-29 21:31:26
+Rohnert Park,Big O Tires - Rohnert Park,5979 Commerce Blvd,,CA,94928,STS,2017-11-29 21:31:31
+Lexington,National Tire & Battery Lexington - Sunset Blvd,5450 SUNSET BOULEVARD,,SC,29072,CAE,2017-11-29 21:31:32
+Healdsburg,Big O Tires - Healdsburg,1115 Healdsburg Ave,,CA,95448,STS,2017-11-29 21:31:26
+Broadview,Pep Boys - Broadview,900 Broadview Village Square,,IL,60155,CHI,2017-11-29 21:31:36
+FOUNTAIN HILLS,Discount Tire - Fountain Hills,16745 E SHEA BLVD,,AZ,85268,PHX,2017-11-29 21:31:18
+Minneapolis,Bobby & Steve's - South Minneapolis (NO LYFT REP.),5801 Nicollet Ave. S.,,MN,55419,MSP,2017-09-13 17:09:30
+Crystal Lake,Pep Boys - Crystal Lake,4423 US-14,,IL,60014,CHI,2017-11-29 21:31:30
+Coral Springs,Xpress Auto Service And Tires,10820 Wiles Road,,FL,33076,MIA,2017-11-29 21:31:13
+El Dorado,Quality Lube,1106 N West Ave,,AR,71730,LIT,2017-11-29 21:31:30
+Niles,Pep Boys - Niles,9643 N Milwaukee Ave,,IL,60714,CHI,2017-11-29 21:31:34
+Los Angeles,Pep Boys - San Fernando Rd,3332 N San Fernando Rd,,CA,90065,LAX,2017-11-29 21:31:29
+Lodi,Jiffy Lube - Lodi,500 E Kettleman Ln,,CA,95240,SCK,2017-11-29 21:31:21
+Denver,Courtyard by Marriott Cherry Creek,1475 S. Colorado Blvd,,CO,80222,DEN,2017-11-29 21:31:16
+Santa Maria,Jiffy Lube - Santa Maria,1860 S Broadway,,CA,93454,SBP,2017-11-29 21:31:27
+Marysville,Jiffy Lube - Marysville,229 E St,,CA,95901,YAS,2017-11-29 21:31:10
+Surprise,Discount Tire - Surprise,16131 W Bell Rd,,AZ,85374,PHX,2017-11-29 21:31:19
+Chandler,Lyft Phoenix Express Drive - APPOINTMENT ONLY,2900 W Geronimo Pl,,AZ,85224,PHX,2017-11-29 21:31:22
+Tuba City,Cal's Auto Body & Repair Shop,345 U 160,,AZ,86045,NAZ,2017-11-29 21:31:26
+Union,Pep Boys - Union,2525 RT 22 WEST,,NJ,7083,NYC,2017-01-26 23:22:08
+Las Cruces,Pep Boys - Las Cruces,1203 E Lohman Ave,,NM,88001,LRU,2017-06-27 00:45:18
+San Luis Obispo,Big Brand Tires,3577 S Higuera S,,CA,93401,SBP,2017-01-10 21:27:26
+Englewood,Metro Express Car Wash ( Look for Lyft Sign),4095 S Santa Fe Dr.,,CO,80110,DEN,2017-10-13 17:17:26
+Long Beach,Pep Boys -- Long Beach,4645 Pacific Coast Hwy,,CA,90804,LAX,2017-11-29 21:31:32
+Santa Rosa,Big O Tires - Santa Rosa,872 4th St,,CA,95404,STS,2017-11-29 21:31:23
+Fairfax,Kena Shriners - Fairfax,9001 Arlington Blvd,,VA,22031,DCA,2017-11-29 21:31:16
+Arlington,Lyft DC Hub,2011 Crystal Drive,,VA,22202,DCA,2017-11-29 21:31:20
+Kalamazoo,Belle Tire Kalamazoo,6780 W Main Street,,MI,49009,AZO,2017-11-29 21:31:31
+Tallahassee,Pep Boys - West Tennessee St,1425 West Tennessee St,,FL,32304,TLH,2017-11-29 21:31:12
+Citrus Heights,Citrus Heights - Firestone (Sunrise Mall Rd),6102 Sunrise Mall Rd,,CA,95610,SMF,2017-11-29 21:31:26
+Traverse City,D&W Auto Repair,2853 M-37,,MI,49685,TVC,2017-11-29 21:31:26
+Modesto,Firestone - Modesto,3230 Dale Rd,,CA,95356,MOD,2017-11-29 21:31:21
+Colorado Springs,TECHNET Colorado Springs - Foreman's Auto Repair,2446 East Platte,,CO,80909,COS,2017-11-29 21:31:24
+Tracy,Meineke - Tracy,326 W Grant Line Rd,,CA,95376,MOD,2017-11-29 21:31:30
+Birmingham,AAMCO Birmingham - Center Point Rd,1251 Center Point Road,,AL,35215,BHM,2017-11-29 21:31:13
+Lake Forest,Pep Boys - Lake Forest Reinspection,22671 Lake Forest Dr,,CA,92630,OCX,2017-11-29 21:31:34
+Bloomington,Bobby & Steve's - France (NO LYFT REP.),7920 France Ave. S.,,MN,55435,MSP,2017-08-24 16:48:25
+Denver,Concentra UrgentCare North Denver,420 E. 58th Ave,,CO,80216,DEN,2017-07-07 17:40:32
+Wheat Ridge,Pep Boys - Wheat Ridge,7525 W. 44th Ave,,CO,80033,DEN,2017-07-07 21:51:46
+Yuba City,Jiffy Lube - Bridge St.,1331 Bridge St,,CA,95993,YAS,2016-12-15 21:47:56
+Tucson,Pep Boys Tucson - S 6th Ave,1300 S 6th Ave,,AZ,85713,TUS,2017-11-29 21:31:24
+Fresno,Pep Boys - North West Fresno,4490 W Shaw Ave,,CA,93722,FAT,2017-11-29 21:31:18
+Galt,Jiffy Lube - Galt,10340 Twin Cities Rd,,CA,95632,SCK,2017-11-29 21:31:11
+Grand Rapids,Banka's Auto Repair,O-14072 Ironwood Dr NW,,MI,49534,GRR,2017-11-29 21:31:18
+Flagstaff,Big O Tires Flagstaff - Walgreen Blvd,2469 N Walgreen Blvd,,AZ,86004,FLG,2017-11-29 21:31:11
+Denver,Denver/RiNo Forney Transportation Museum,4303 Brighton Blvd,,CO,80216,DEN,2017-11-29 21:31:18
+Ann Arbor,Lou's Wolverine Transmission,1904 Packard Rd,,MI,48104,ARB,2017-11-29 21:31:23
+Bloomington,Bobby & Steve's - West Bloomington (NO LYFT REP.),10740 Normandale Blvd,,MN,55437,MSP,2017-11-29 21:31:25
+Atascadero,Jiffy Lube - Atascadero,7760 El Camino Real,,CA,93422,SBP,2017-11-29 21:31:27
+Lodi,Pep Boys - Lodi,1401 S Cherokee Ln.,,CA,95240,SCK,2017-11-29 21:31:17
+NORTH CHARLESTON,National Tire & Battery North Charleston - Sunset Blvd,8421 DORCHESTER ROAD,,SC,29420,CHS,2017-08-03 22:55:12
+Alexandria,Wiygul Automotive - 310 S Pickett St Alexandria,310 S. Pickett St.,,VA,22304,DCA,2017-04-12 19:04:23
+Merced,Pep Boys Merced,1207 W Main St,,CA,95340,MCE,2017-03-27 22:52:55
+El Cajon,Pep Boys Jamacha,201 Jamacha Rd,,CA,92109,SAN,2017-10-20 18:15:52
+Little River,National Tire & Battery Little River - Pine Dr,4295 PINE DRIVE,,SC,29566,MYR,2017-11-29 21:31:24
+Long Island City,Lyft Queens,31-00 47th Ave,,NY,11101,BKN,2017-11-29 21:31:19
+Laurel,Pep Boys (Laurel),13344 Laurel Bowie Rd,,MD,20708,BWI,2017-11-29 21:31:18
+Flagstaff,Big O Tires Flagstaff - W Rte 66,1051 W Rte 66,,AZ,86001,FLG,2017-11-29 21:31:30
+HILMAR,TECHNET Hilmar - Tire & Wheel Center Hilmar,8354 LANDER AVE,,CA,95324,MCE,2017-11-29 21:31:24
+Antioch,Antioch - Midas,1200 Auto Center Dr,,CA,94509,SFO,2017-11-29 21:31:26
+Miami,Doug's Automotive Repair Inc.,8800 SW 129th Street,,FL,33176,MIA,2017-11-29 21:31:09
+Grand Rapids,Meekhof Tire,1640 Olson St NE,,MI,49503,GRR,2017-11-29 21:31:17
+Forest Park,Pep Boys - Forest Park,25 South Harlem Ave,,IL,60130,CHI,2017-11-29 21:31:34
+Lake Havasu City,Tri-Tech Auto,501 N Lake Havasu Ste 102,,AZ,86403,LAB,2017-11-29 21:31:11
+Merced,Pep Boys - Merced,1207 W Main St,,CA,95340,MCE,2017-11-29 21:31:29
+Union City,Pep Boys Union City (Park in the Lyft Parking Area Between the Cones and Meet Us Inside),30085 Industrial Parkway SW,,CA,94587,SFO,2017-01-23 23:54:44
+Tucson,Pep Boys Tucson,4491 E Speedway Blvd,,AZ,85712,TUS,2017-01-11 22:03:55
+Thornton,Holiday Inn Express & Suites - North Denver/Thornton,12030 Grant Street,,CO,80241,DEN,2017-12-01 20:45:05
+Chandler,Pep Boys - Chandler,1266 Chandler Blvd,,AZ,85224,PHX,2017-11-29 21:31:21
+Downey,Pep Boys -- Lakewood,10231 Lakewood Blvd,,CA,90241,LAX,2017-11-29 21:31:34
+El Cajon,Pep Boys EC,201 Jamacha Rd,,CA,92109,SAN,2017-11-29 21:31:32
+Laurel,Pep Boys - Laurel,13344 Laurel Bowie Rd,,MD,20708,DCA,2017-11-29 21:31:22
+St. Petersburg,The Tire Choice (formerly McGee Auto Service & Tires),456 Dr MLK Jr St N,,FL,33705,TPA,2017-11-29 21:31:17
+Indio,Pep Boys - Indio,81-246 CA-111,,CA,92201,SBD,2017-11-29 21:31:29
+Antelope,Antelope - Firestone,4325 Elverta Rd,,CA,95843,SMF,2017-11-29 21:31:17
+MYRTLE BEACH,National Tire & Battery Myrtle Beach - Hwy 501,2075 HIGHWAY 501,,SC,29577,MYR,2017-11-29 21:31:23
+Fresno,Pep Boys - Blackstone Ave,3655 N Blackstone Ave,,CA,93726,FAT,2017-11-29 21:31:13
+Chicago Ridge,Pep Boys - Chicago Ridge,10100 S Ridgeland Ave,,IL,60415,CHI,2017-11-29 21:31:34
+Boulder,Concentra Boulder,3300 28th St,,CO,80301,DEN,2017-11-29 21:31:15
+Baltimore,Lyft BWI Office,1501 St. Paul St.,,MD,21202,BWI,2017-11-29 21:31:26
+Columbia,AAMCO Columbia - Broad River Rd,2428 Broad River Road,,SC,29210,CAE,2017-11-29 21:31:23
+Napa,Les Schwab Tire Center,830 W Imola Ave,,CA,94559,STS,2017-11-29 21:31:09
+Ypsilanti,Advanced Auto Parts,3360 Carpenter Road,,MI,48197,ARB,2017-11-29 21:31:14
+Thatcher,Wayne's Pit Stop Auto Repair,3829 W Main St,,AZ,85552,EAZ,2017-11-29 21:31:25
+Clearlake,Big O Tires - Clearlake,15195 Lakeshore Dr,,CA,95422,YAS,2017-11-29 21:31:20
+Stockton,Pep Boys -- Stockton,4987 N W Ln,,CA,95210,MOD,2017-04-18 15:21:19
+Santa Rosa,Firestone - Santa Rosa,2730 Santa Rosa Ave,,CA,95407,STS,2017-06-27 00:44:16
+Denver,Denver Field House,1600 Federal Blvd,,CO,80204,DEN,2017-11-29 21:31:11
+Philadelphia,Pep Boys - Stenton Ave,6200 Stenton Ave,,PA,19138,PHI,2017-11-29 21:31:24
+Stockton,Pep Boys - South Stockton,845 Dr M.L.K. Jr Blvd,,CA,95206,SCK,2017-11-29 21:31:31
+Pullman,Jiffy Lube,700 SE Bishop Blvd,,WA,99163,PUW,2017-11-29 21:31:31
+Pullman,Jerry's Auto Repair,1260 S Grand Ave,,WA,99163,PUW,2017-11-29 21:31:31
+SUMMERVILLE,National Tire & Battery Summerville - Angus Dr,103 ANGUS DRIVE,,SC,29483,CHS,2017-11-29 21:31:25
+Huntington Park,Pep Boys - Randolph St,2671 Randolph St,,CA,90255,LAX,2017-11-29 21:31:30
+Pine Bluff,Harold Pointer Auto Service,3417 S Camden Rd,,AR,71603,LIT,2017-11-29 21:31:15
+FLINT,SHELTON'S SERVICE CENTER,921 UNIVERSITY AVE,,MI,48504,FNT,2017-07-27 21:26:48
+Beverly,Pep Boys - Beverly / Edgewater Park NJ,2176 Rte 130,,NJ,8046,NYC,2017-02-02 18:10:17
+Cerritos,Pep Boys - Cerritos,11944 South St,,CA,90703,OCX,2017-12-04 04:49:08
+Decatur,National Tire & Battery Decatur - Beltline Rd,902 Beltline Rd.,,AL,35601,HSV,2017-11-29 21:31:15
+Tampa,Meineke Car Care Center - Dale Mabry,6850 N Dale Mabry Hwy,,FL,33614,TPA,2017-11-29 21:31:11
+Flint,Tuffy Service Center,3045 Miller Rd,,MI,48507,FNT,2017-11-29 21:31:22
+Jonesboro,Firestone Complete Auto Care,2106 Wilkins Ave,,AR,72401,XNA,2017-11-29 21:31:31
+St Paul,Victory Auto Service & Glass Maplewood,2128 Rice St,,MN,55113,MSP,2017-11-29 21:31:21
+Chicago,Pep Boys Elston,2604 N Elston Avenue,,IL,60647,CHI,2017-11-29 21:31:11
+Avon,Christie Lodge,47 E Beaver Creek Blvd,,CO,81620,VBC,2017-11-29 21:31:23
+Modesto,Big O Tires - Modesto,4237 McHenry Ave,,CA,95356,MOD,2017-11-29 21:31:25
+Merced,Midas - Merced,1440 V St,,CA,95340,MCE,2017-11-29 21:31:17
+Ann Arbor,Belle Tire (Ann Arbor - Washtenaw Ave.),3501 Washtenaw Avenue,,MI,48104,ARB,2017-11-29 21:31:14
+Atwater,Jiffy Lube - Atwater,2679 First St,,CA,95301,MCE,2017-06-27 00:43:48
+Peoria,Pep Boys - Peoria,7440 W Peoria Ave,,AZ,85345,PHX,2017-11-29 21:31:20
+Batavia,Pep Boys - Batavia,837 N Randall Rd,,IL,60510,CHI,2017-11-29 21:31:28
+Lansing,Randall Automotive,3615 S Martin Luther King Jr Blvd,,MI,48910,LAN,2017-11-29 21:31:23
+Carson,Pep Boys - Dominguez St,810 E Dominguez St,,CA,90746,LAX,2017-11-29 21:31:31
+San Francisco,Jiffy Lube - Van Ness Ave,2030 Van Ness Ave,,CA,94109,SFO,2017-11-29 21:31:30
+Paradise,Jiffy Lube - Paradise,6081 Clark Rd,,CA,95969,CIC,2017-11-29 21:31:09
+Duluth,ProSource Auto,332 W 4th St,,MN,55806,DLH,2017-11-29 21:31:14
+Santa Fe,Pep Boys - Santa Fe,2710 Cerrillos Rd,,NM,87507,TAO,2017-11-29 21:31:21
+Albuquerque,AAMCO Albuquerque - Lomas Blvd,6629 Lomas Boulevard NE,,NM,87110,ABQ,2017-11-29 21:31:14
+Fresno,Fresno - Pep Boys (Downtown Fresno),716 Broadway St,,CA,93721,FAT,2017-11-29 21:31:27
+Santa Cruz,Firestone - Santa Cruz,510 Water St,,CA,95060,CRZ,2017-11-29 21:31:13
+Thousand Oaks,Pep Boys - Thousand Oaks,2099 Thousand Oaks Blvd,,CA,91362,OXR,2017-11-29 21:31:21
+Cicero,Pep Boys Cicero (New),2501 S Cicero Ave,,IL,60804,CHI,2017-11-29 21:31:25
+BIRMINGHAM,National Tire & Battery Birmingham - Galleria Cir,3420 GALLERIA CIRCLE,,AL,35244,BHM,2017-11-29 21:31:33
+Fort Collins,Hilton Ft. Collins,425 W Prospect Rd,,CO,80526,FNL,2017-11-29 21:31:25
+Scio,Belle Tire (Scio),4049 Jackson Road,,MI,48103,ARB,2017-11-29 21:31:10
+Santa Rosa,Lyft onboarding parking lot,3311 Santa Rosa Ave,,CA,95407,STS,2017-11-29 21:31:08
+TURLOCK,TECHNET Turlock - Countryside Tire & Brake,1620 COUNTRYSIDE LN,,CA,95380,MOD,2017-11-29 21:31:33
+Ventura,Pep Boys - Ventura,2705 E Thompson Blvd,,CA,93003,OXR,2017-11-29 21:31:21
+PHOENIX,Discount Tire - Phoenix,707 E CAREFREE HWY,,AZ,85085,PHX,2017-11-29 21:31:20
+Las Cruces,AAMCO Las Cruces - W Piacho Ave,1885 West Picacho Ave,,NM,88005,LRU,2017-11-29 21:31:22
+Birmingham,National Tire & Battery Birmingham - W Oxmoor Rd,130 WEST OXMOOR ROAD,,AL,35209,BHM,2017-11-29 21:31:30
+Chicago,Pep Boys - Western Ave,5959 S Western Ave,,IL,60636,CHI,2017-11-29 21:31:28
+San Jose,Pep Boys - Steven's Creek,3780 Stevens Creek Blvd,,CA,95117,SJC,2017-11-29 21:31:15
+Elk Grove,Elk Grove - Big O Tires,8022 Orchard Loop Ln,,CA,95624,SMF,2017-11-29 21:31:27
+Concord,AAMCO of Concord,8600 Keele Street,,ON,L4K 4H8,YYZ,2017-11-29 21:31:33
+Stockton,Jiffy Lube (E Hammer Ln) - Stockton,1648 E Hammer Ln,,CA,95210,SCK,2017-05-11 00:01:02
+Clovis,PepBoys - Clovis,693 W Shaw Ave,,CA,93612,FAT,2017-02-02 02:05:23
+Portland,Lyft Office,2712 N Mississippi Ave,,OR,97227,PDX,2017-09-07 15:55:24
+Ouray,Ouray Victorian Inn,50 Third Ave,,CO,81427,TEL,2017-11-29 21:31:08
+Goodyear,Discount Tire - Goodyear,13213 W McDowell Rd,,AZ,85338,PHX,2017-11-29 21:31:19
+Bloomington,AAMCO Bloomington - S Main St,321 South Main Street,,IL,61701,BMI,2017-11-29 21:31:10
+Page,B&B Auto Repair,809 Aqua Ave,,AZ,86040,NAZ,2017-11-29 21:31:26
+Los Angeles,Pep Boys - Atlantic Blvd,256 S Atlantic Blvd,,CA,90022,LAX,2017-11-29 21:31:30
+Columbia,National Tire & Battery Columbia - Two Notch Rd,10180 TWO NOTCH RD,,SC,29229,CAE,2017-11-29 21:31:25
+Marquette,Joe' Automotive Repair,630 South Lake Street,,MI,49855,MQT,2017-11-29 21:31:25
+COLUMBIA,National Tire & Battery Columbia - Andrews Rd,640 ST. ANDREWS ROAD,,SC,29210,CAE,2017-11-29 21:31:34
+Seaside,Meineke - Seaside,1925 Del Monte Blvd,,CA,93955,MRY,2017-11-29 21:31:14
+Lombard,Pep Boys - Lombard,851 E Roosevelt Rd,,IL,60148,CHI,2017-11-29 21:31:28
+Tucson,Pep Boys Tucson - N Oracle Rd,3783 N Oracle Rd,,AZ,85705,TUS,2017-11-29 21:31:24
+MURRELLS INLET,National Tire & Battery Murrells Inlet - Hwy 17 S,3419 HWY 17 S,,SC,29576,MYR,2017-11-29 21:31:32
+Hopkins,Meineke Hopkins,10500 Excelsior Blvd,,MN,55343,MSP,2017-12-04 17:33:49
+Minneapolis,Bobby & Steve's - West Minneapolis (NO LYFT REP.),328 South Cedar Lake Rd,,MN,55405,MSP,2017-11-29 21:31:25
+Tucson,Pep Boys Tucson - E Speedway Blvd,4491 E Speedway Blvd,,AZ,85712,TUS,2017-11-29 21:31:30
+Birmingham,AAMCO Birmingham - 6th Ave,2610 6th Avenue S,,AL,35233,BHM,2017-11-29 21:31:22
+Pueblo,Car Doctor,2905 Hart Rd,,CO,81003,PUB,2017-11-29 21:31:26
+Waukegan,Pep Boys - Waukegan,620 N Green Bay Rd,,IL,60085,CHI,2017-11-29 21:31:31
+Minneapolis,Bobby & Steve's - Nicollet (NO LYFT REP.),5801 Nicollet Ave. S.,,MN,55419,MSP,2017-08-24 16:31:58
+Riverdale,Lyft at Elks - Landover Hills,6700 Kenilworth Ave,,MD,20737,DCA,2017-03-23 15:30:04
+Pleasant Hill,Pep Boys (Rear Parking Lot),520 Contra Costa Blvd,,CA,94523,SFO,2017-01-20 22:43:10
+Lexington,Quality Car Sales and Services LLC,656 Two Notch Rd.,,SC,29073,CAE,2017-07-27 21:12:25
+Fort Collins,Community Automotive Center,1925 S Timberline Rd,,CO,80525,FNL,2017-07-27 18:15:37
+Tallahassee,Pep Boys - Apalachee Parkway,2353 Apalachee Parkway,,FL,32301,TLH,2017-02-01 20:54:38
+Grand Island,Gary's Quality Automotive,3703 W Old Potash Hwy,,NE,68803,WNE,2017-11-29 21:31:26
+Redding,Big O Tires,377 E Cypress Ave,,CA,96002,RDD,2017-11-29 21:31:07
+Clovis,Jiffy Lube - Clovis,240 W Ashlan Ave,,CA,93612,FAT,2017-11-29 21:31:15
+Scottsdale,Pep Boys - Scottsdale,2524 N Scottsdale Rd,,AZ,85257,PHX,2017-11-29 21:31:25
+Absecon,Pep Boys - Absecon NJ,609 White Horse Pike,,NJ,8201,NYC,2017-11-29 21:31:12
+Stockton,Jiffy Lube - Stockton (North West Ln),4715 N W Ln,,CA,95210,SCK,2017-11-29 21:31:23
+Traverse City,Dave's Garage,911 Hastings St,,MI,49686,TVC,2017-11-29 21:31:28
+Spokane,AAMCO Spokane - E Sprague Ave,14609 East Sprague Avenue,,WA,99216,GEG,2017-11-29 21:31:22
+Tampa,Meineke - N Dale Mabry Hwy,6850 N Dale Mabry Hwy,,FL,33614,TPA,2017-11-29 21:31:17
+Fort Collins,TECHNET Fort Collins - ASR Automotive Service and Repair,309 S Link Lane,,CO,80524,FNL,2017-11-29 21:31:24
+Flagstaff,AAMCO  N. West St,2608 N. West Street,,AZ,86004,FLG,2017-11-29 21:31:29
+Naperville,Pep Boys - Naperville,2936 Ogden Ave,,IL,60540,CHI,2017-11-29 21:31:27
+Castle Rock,Douglas County Event Center - Kirk Hall,500 Fairgrounds Rd,,CO,80104,DEN,2017-11-29 21:31:16
+Daly City,Daly City - Firestone Complete Auto Care,4 Serramonte Center,,CA,94015,SFO,2017-11-29 21:31:27
+Tucson,Pep Boys Tucson - N Oracle Rd.,3783 N Oracle Rd,,AZ,85705,TUS,2017-07-25 20:14:19
+Las Cruces,AAMCO Las Cruces - W Piacho,1885 West Picacho,,NM,88005,LRU,2017-07-26 17:56:34
+Monterey,Jiffy Lube (Fremont St),2415 Fremont St,,CA,93940,MRY,2017-05-10 22:16:32
+Beverly,Pep Boys - Edgewater Park,2176 US-130,,NJ,8046,NYC,2017-01-26 23:26:03
+Chula Vista,Pep Boys - Chula Vista,1000 Tierra Del Rey,,CA,91910,SAN,2017-10-20 18:11:28
+Lake Forest,Pep Boys - Lake Forest,22671 Lake Forest Dr,,CA,92630,OCX,2017-12-04 04:49:37
+BEAUFORT,National Tire & Battery Beaufort - Paris Island Gateway,118 PARRIS ISLAND GATEWAY,,SC,29906,CHS,2017-11-29 21:31:30
+Temecula,Pep Boys - Temecula,40605 Winchester Rd,,CA,92591,SBD,2017-11-29 21:31:34
+El Cerrito,El Cerrito - Midas,10903 San Pablo Ave,,CA,94530,SFO,2017-11-29 21:31:27
+Monterey,T & T Auto Repair,117 Fairground Rd,,CA,93940,MRY,2017-11-29 21:31:08
+Petaluma,Big O Tires - Petaluma,516 E Washington St,,CA,94952,STS,2017-11-29 21:31:20
+Skokie,Pep Boys - Skokie,5220 Touhy Ave,,IL,60077,CHI,2017-11-29 21:31:29
+Stockton,Jiffy Lube - Stockton,1648 E Hammer Ln,,CA,95210,SCK,2017-05-11 23:46:06
+Portland,Point S - Sandy Blvd.,12030 NE Sandy Blvd,,OR,97220,PDX,2017-12-05 05:59:28
+San Luis Obispo,Dave's Automotive,847 Ricardo Ct,,CA,93401,SBP,2017-11-29 21:31:10
+Colorado Springs,Goodyear,3610 Austin Bluffs Parkway,,CO,80918,COS,2017-11-29 21:31:24
+Colorado Springs,Pep Boys Colorado Springs,7625 N Academy Blvd,,CO,80920,LAA,2017-11-29 21:31:15
+Berkeley,Berkeley - Midas,1835 San Pablo Ave,,CA,94703,SFO,2017-11-29 21:31:26
+Miami,Advanced Auto Diagnostics II,1779 W Flagler St,,FL,33135,MIA,2017-11-29 21:31:21
+Truckee,Advanced Body & Frame - Truckee,10745 W River St,,CA,96161,TVL,2017-11-29 21:31:19
+Greeley,AAMCO Greeley - 29th St,2445 29th Street,,CO,80631,FNL,2017-11-29 21:31:23
+South Lake Tahoe,Welcome's Autobody & Towing,1772 D St,,CA,96150,TVL,2017-11-29 21:31:17
+Woodland,Big O Tires - Woodland,220 W Main St,,CA,95695,SMF,2017-11-29 21:31:26
+Hanover,Lyft Baltimore Office,1341 Ashton Rd,,MD,21076,BWI,2017-11-29 21:31:15
+Seaside,Midas - Seaside,1543 Del Monte Blvd,,CA,93955,MRY,2017-11-29 21:31:18
+Sacramento,Davis Tire Pros,1513 5th St Davis,,CA,95616,SMF,2017-11-29 21:31:27
+NORTH CHARLESTON,National Tire & Battery North Charleston - Dorchester Rd,8421 DORCHESTER ROAD,,SC,29420,CHS,2017-11-29 21:31:26
+Antioch,Antioch - Wheel Works +1 925-238-7836,2024 A St,,CA,94509,SCK,2017-09-06 22:58:24
+Denver,Highlands Masonic Event Center,3550 Federal Blvd,,CO,80211,DEN,2017-11-29 21:31:18
+Monterey,Mike's Auto,1101 Airport Road,,CA,93940,MRY,2017-11-29 21:31:10
+Fort Smith,Hector's Auto Repair,2110 N O St.,,AR,72901,XNA,2017-11-29 21:31:30
+CHARLESTON,National Tire & Battery Charleston - Northwoods Blvd,2161 NORTHWOODS BLVD,,SC,29406,CHS,2017-11-29 21:31:30
+Lauderhill,Sunrise Starter And Alternator,7527 W Oakland Park Blvd,,FL,33319,MIA,2017-11-29 21:31:20
+Citrus Heights,Citrus Heights - Firestone (Greenback),7895 Greenback Ln,,CA,95610,SMF,2017-11-29 21:31:26
+Albuquerque,AAMCO Albuquerque - Caminito Coors NW,6632 Caminito Coors NW,,NM,87120,ABQ,2017-11-29 21:31:21
+Saginaw,Enszers,401 N Hamilton St,,MI,48602,MBS,2017-11-29 21:31:18
+Myrtle Beach,Meineke - Dick Pond Rd,2351 Dick Pond Rd,,SC,29575,MYR,2017-11-29 21:31:19
+Santa Cruz,Santa Cruz Motorsports,211 Cedar Street,,CA,95060,CRZ,2017-11-29 21:31:09
+Philadelphia,Pep Boys - Columbus Blvd,1000 S Christopher Columbus Blvd,,PA,19147,PHI,2017-11-29 21:31:17
+Ann Arbor,Goodyear Auto Service - Ann Arbor,2260 West Stadium Boulevard,,MI,48103,ARB,2017-11-29 21:31:16
+Lake Havasu,N. Lake Havasu Ave,669 North Lake Havasu Avenue,,AZ,86403,LAB,2017-11-29 21:31:14
+Phoenix,Pep Boys - Phoenix,5126 N. 7Th St,,AZ,85014,PHX,2017-11-29 21:31:21
+Bensalem,Pep Boys - Street Road,1748 Street Road,,PA,19020,PHI,2017-11-29 21:31:12
+San Diego,Lyft Hot Spot Activity Rd,8999 Activity Rd,,CA,92126,SAN,2017-11-29 21:31:31
+Oakhurst,Pep Boys - Oakhurst NJ (Ocean Township),1608 NJ-35,,NJ,7755,NYC,2017-11-29 21:31:13
+Absecon,Pep Boys - Absecon,609 White Horse Pike,,NJ,8201,NYC,2017-01-26 23:11:06
+Fairfax,Lyft at Kena Shriners,9001 Arlington Blvd,,VA,22031,DCA,2017-02-14 20:19:54
+Miami,Doug's Automotive Repair Service,8800 SW 129th Street,,FL,33176,MIA,2016-11-22 00:04:43
+Minneapolis,Meineke Brooklyn Park,8088 Brooklyn Blvd,,MN,55445,MSP,2017-12-01 15:18:50
+South Lake Tahoe,Lyft Hotspot - Lakeshore Lodge,930 Balbijou Road,,CA,96150,TVL,2017-11-29 21:31:16
+Chanhassen,Victory Auto Service & Glass Chanhassen,64 Lake Drive East,,MN,55317,MSP,2017-11-29 21:31:09
+Melrose Park,Pep Boys - Melrose Park,2600 W North Ave,,IL,60160,CHI,2017-11-29 21:31:34
+Tampa,Pep Boys - North Florida Ave.,10124 N Florida Ave,,FL,33612,TPA,2017-11-29 21:31:11
+Bloomington,Bobby & Steve's - Bloomington (NO LYFT REP.),7920 France Ave. S.,,MN,55435,MSP,2017-11-29 21:31:25
+Chicago,Irish American Heritage Center,4626 N Knox Ave,,IL,60630,CHI,2017-11-29 21:31:12
+Fresno,Pep Boys - Kings Canyon Rd,5615 E Kings Canyon Rd,,CA,93727,FAT,2017-11-29 21:31:18
+Hancock,Lakeside Auto,20625 Royce Rd,,MI,49930,MQT,2017-11-29 21:31:25
+Hayward,Hayward - Wheel Works,1957 W Winton Ave,,CA,94545,SFO,2017-11-29 21:31:33
+Portage,Pep Boys - Portage,5630 S Westnedge Ave,,MI,49002,AZO,2017-11-29 21:31:24
+Miami,Precise Auto Service,12320 SW 117th Ct,,FL,33186,MIA,2017-11-29 21:31:15
+Livermore,Livermore - Wheel Works,2868 Las Positas Rd,,CA,94551,SFO,2017-11-29 21:31:27
+Greeley,Greeley,2445 29th Street,,CO,80631,FNL,2017-07-26 18:32:44
+Albuquerque,AAMCO Albuquerque -,6629 Lomas Boulevard NE,,NM,87110,ABQ,2017-07-26 18:13:52
+Ypsilanti,Belle Tire Ypsilanti,3250 Carpenter Road,,MI,48197,ARB,2017-04-13 17:34:01
+Alhambra,YM Alhambra,1000 South Fremont Avenue,,CA,91803,LAX,2017-02-01 20:28:11
+Chicago,Pep Boys - Milwaukee Ave,4164 N Milwaukee Ave,,IL,60641,CHI,2017-11-29 21:31:28
+Grand Rapids,Mason Street Garage,1302 Mason St NE,,MI,49503,GRR,2017-11-29 21:31:22
+Concord,Concord - Midas,2525 Monument Blvd,,CA,94520,SFO,2017-11-29 21:31:27
+Arbuckle,Arbuckle Service Center,401 Olive St Arbuckle CA 95912,,CA,95912,YAS,2017-11-29 21:31:20
+Long Beach,Long Beach,4645 Pacific Coast Hwy,,CA,90804,OCX,2017-11-29 21:31:31
+Lodi,Lakewood Auto Repair,201 N Sacramento,,CA,95240,SCK,2017-11-29 21:31:34
+Berwyn,Pep Boys - Berwyn,6631 Ogden Ave,,IL,60402,CHI,2017-11-29 21:31:34
+El Dorado Hills,El Dorado Hills - Big O Tires,4640 Post St,,CA,95762,SMF,2017-11-29 21:31:27
+Bishop,Warren's Auto Repair,156 Short St,,CA,93514,ECA,2017-11-29 21:31:25
+Fresno,Jiffy Lube - Fresno (Spruce Ave),5316 W Spruce Ave,,CA,93722,FAT,2017-11-29 21:31:24
+San Diego,Pep Boys - San Diego,3550 El Cajon Blvd,,CA,92104,SAN,2017-10-10 22:28:03
+Inver Grove Heights,Pep Boys - Inver Grove Heights,1426 Mendota Rd E,,MN,55077,MSP,2017-12-04 00:23:59
+Portland,PDX HUB 2,2712 N Mississippi Ave,,OR,97227,PDX,2017-11-30 19:41:08
+Bakersfield,Pep Boys in Stockdale Town Center,4605 Planz Rd,,CA,93309,BFL,2017-11-29 21:31:21
+King of Prussia,Pep Boys - E Dekalb Pike: King of Prussia,214 E Dekalb Pike,,PA,19406,PHI,2017-11-29 21:31:16
+Lake Worth,Speedy Car Repairs - Lake Worth,2745 Lake Worth Road,,FL,33461,,2017-11-29 21:31:17
+El Dorado Hills,El Dorado Hills - Firestone,390 Green Valley Rd,,CA,95762,SMF,2017-11-29 21:31:28
+Birmingham,Pep Boys Birmingham,1566 Montclair Road,,AL,35213,BHM,2017-11-29 21:31:22
+Carmichael,Carmichael - Midas,6840 Fair Oaks Blvd,,CA,95608,SMF,2017-11-29 21:31:26
+Spokane,AAMCO Spokane - E Francis Ave,628 East Francis Avenue,,WA,99208,GEG,2017-11-29 21:31:24
+Mammoth Lakes,Alpine Garage,47 Center St,,CA,93546,ECA,2017-11-29 21:31:25
+Wheaton,GF Auto Repair,1800 North Main St,,IL,60187,CHI,2017-11-29 21:31:34
+Tallahassee,Pep Boys - 2984 Apalachee Parkway,2984 Apalachee Parkway,,FL,32301,TLH,2017-11-29 21:31:20
+SCOTTSDALE,Discount Tire - Scottsdale,8799 E FRANK LLOYD WRIGHT BLVD,,AZ,85260,PHX,2017-11-29 21:31:19
+Saginaw,Dex-Tech Auto Ctr,2958 Bay Rd,,MI,48603,MBS,2017-11-29 21:31:22
+Eureka,Leon's Car Care Center,929 Broadway St,,CA,95501,ACV,2017-11-29 21:31:10
+South Lake Tahoe,Eloise Automotive Alignment,2143 Eloise Ave,,CA,96150,TVL,2017-11-29 21:31:12
+Oakhurst,Pep Boys - Ocean Township,1608 NJ-35,,NJ,7755,NYC,2017-11-29 21:31:12
+San Diego,Lyft Hotspot Miramar,8999 Activity Rd,,CA,92126,SAN,2017-11-29 21:31:11
+Reno,Lyft Activation Center,634 Ryland St,,NV,89502,ENV,2017-12-05 02:18:55
+Aurora,Concentra UrgentCare Chambers Rd.,3449 Chambers Rd b,,CO,80011,DEN,2017-06-27 23:46:34
+Rialto,Pep Boys - Rialto,505 E Foothill Blvd,,CA,92376,SBD,2017-12-04 04:48:08
+Lansing,Shaheen Chevrolet,632 American Rd,,MI,48911,LAN,2017-11-29 21:31:16
+El Centro,Pep Boys El Centro,902 N Imperial Ave,,CA,92243,IPL,2017-11-29 21:31:09
+Monterey,Jiffy Lube - Monterey,2415 Fremont St,,CA,93940,MRY,2017-11-29 21:31:20
+Conway,AAMCO Myrtle Beach - 16th Ave,1300 16th Avenue,,SC,29526,MYR,2017-11-29 21:31:25
+Cathedral City,Pep Boys - Cathedral City Reinspection,31-505 Date Palm Dr,,CA,92234,SBD,2017-11-29 21:31:28
+Manteca,Meineke - Manteca,185 S Union Rd,,CA,95337,SCK,2017-11-29 21:31:30
+Tracy,Les Schwab Tire Center - Tracy,3260 W Grant Line Rd,,CA,95304,MOD,2017-11-29 21:31:24
+Roswell,The Driveway Mechanic,1006 N Garden Ave,,NM,88201,ROW,2017-11-29 21:31:25
+Chicago,Pep Boys - Grand Ave,6811 W Grand Ave,,IL,60707,CHI,2017-11-29 21:31:34
+Seattle,Lyft Hub,1012 Western Ave,,WA,98104,TAC,2017-11-29 21:31:23
+Ham Lake,Victory Auto S&G - Ham Lake (NO LYFT REP.),16326 Highway 65 NE,,MN,55304,MSP,2017-08-24 20:09:52
+Deatur,National Tire & Battery Huntsville - Beltline Rd.,902 Beltline Rd.,,AL,35601,HSV,2017-08-03 21:40:13
+Englewood,Metro Express Car Wash,4095 S Santa Fe Dr.,,CO,80110,DEN,2017-10-13 17:11:41
+Modesto,Pep Boys - Modesto,1340 McHenry Ave,,CA,95350,MOD,2017-11-29 21:31:18
+Watsonville,Firestone - Watsonville,1099 S Green Valley Rd,,CA,95076,CRZ,2017-11-29 21:31:26
+San Francisco,Firestone - Mission St,1501 Mission St,,CA,94103,SFO,2017-11-29 21:31:30
+La Plata,American Legion - La Plata MD,6330 Crain Hwy,,MD,20646,DCA,2017-11-29 21:31:13
+Watsonville,Firestone - Watsonville,1099 S Green Valley Rd,,CA,95076,MRY,2017-11-29 21:31:26
+Turlock,Les Schwab Tire Center - Turlock,2602 Geer Rd,,CA,95382,MCE,2017-11-29 21:31:21
+Lamar,Ark Valley Auto Services,516 E Olive St,,CO,81052,LAA,2017-11-29 21:31:26
+Union City,Pep Boys Union City,30085 Industrial Parkway SW,,CA,94587,SFO,2017-11-29 21:31:12
+Audubon,Pep Boys - Audubon NJ,114 E Black Horse Pike,,NJ,8106,NYC,2017-11-29 21:31:12
+San Luis Obispo,Erickson Automotive - San Luis Obispo,2923 S Higuera St,,CA,93401,SBP,2017-11-29 21:31:27
+Alexandria,Wiygul Automotive - Pickett St.,310 S. Pickett St.,,VA,22304,DCA,2017-11-29 21:31:17
+Tukwila,Comfort Suites,7200 Fun Center Way,,WA,98188,TAC,2017-11-29 21:31:11
+Salinas,Jiffy Lube - Salinas,228 N Main St,,CA,93901,MRY,2017-11-29 21:31:35
+San Jose,Wheel Works - San Jose,5759 Winfield Blvd,,CA,95123,SJC,2017-11-29 21:31:30
+Tukwila,Comfort Suites,7200 Fun Center Way,,WA,98188,SEA,2017-11-29 21:31:11
+Encinitas,Pep Boys - Encinitas,256 El Camino Real N,,CA,92024,SAN,2017-11-13 17:51:36
+Aurora,Pep Boys - E. Mississippi Ave,12820 E. Mississippi Ave,,CO,80012,DEN,2017-07-07 21:49:59
+Toms River,Pep Boys - Toms River,301 NJ-37 E,,NJ,8753,NYC,2017-01-26 23:16:37
+San Diego,Lyft Hot Spot,8999 Activity Rd,,CA,92126,SAN,2017-10-20 17:05:24
+Peoria,Meineke Peoria,3722 North Prospect Rd,,IL,61614,PIA,2017-11-29 21:31:35
+Aurora,DoubleTree Aurora,13696 East Iliff Place,,CO,80014,DEN,2017-11-29 21:31:10
+El Centro,Exxpress Lube,1470 Adams Ave,,CA,92243,IPL,2017-11-29 21:31:16
+SPOKANE,TECHNET Spokane - Botzons Automotive,221 S DISHMAN RD,,WA,99206,GEG,2017-11-29 21:31:25
+Niles,Pep Boys (Niles),9643.5 N Milwaukee Ave.,,IL,60714,CHI,2017-12-01 20:40:40
+Visalia,Pep Boys - Visalia,3015 S Mooney Blvd,,CA,93277,FAT,2017-11-29 21:31:28
+Fresno,Fresno - Pep Boys (North West Fresno),4490 W Shaw Ave,,CA,93722,FAT,2017-11-29 21:31:27
+Alhambra,Lyft Hotspot - Alhambra,1000 South Fremont Avenue,,CA,91803,LAX,2017-11-29 21:31:11
+Chico,Jiffy Lube - Chico,2452 Notre Dame Blvd,,CA,95928,CIC,2017-11-29 21:31:21
+Lamar,K&S Auto Repair,203 S 4th St,,CO,81052,LAA,2017-11-29 21:31:25
+Tracy,Big O Tires - Tracy,1129 W 11th St,,CA,95376,MOD,2017-11-29 21:31:30
+Willingboro,Pep Boys - Beverly NJ,2176 Rte 130,,NJ,8046,NYC,2017-11-29 21:31:22
+Grand Rapids,Parker Brake Inc.,729 Burton St SW,,MI,49503,GRR,2017-11-29 21:31:18
+Fresno,Jiffy Lube  - Fresno (Blackstone Ave),3896 N Blackstone Ave,,CA,93726,FAT,2017-11-29 21:31:25
+Lansing,The Car Shop,6165 Bishop Rd,,MI,48911,LAN,2017-11-29 21:31:17
+Moreno Valley,Pep Boys - Moreno Valley,23470 Sunny Mead Blvd,,CA,92553,SBD,2017-11-29 21:31:28
+Placerville,Big O Tires - Placerville,85 Placerville Dr,,CA,95667,TVL,2017-11-29 21:31:20
+Plantation,Sunrise Collision Inc.,1384 NW 65th Ave,,FL,33313,MIA,2017-11-29 21:31:09
+Flint,Belle Tire,4545 Miller Road,,MI,48507,FNT,2017-11-29 21:31:34
+Tucson,AAMCO Tucson - W. Ina Rd,3674 W. Ina Road,,AZ,85741,TUS,2017-11-29 21:31:14
+Grand Rapids,TMT The Master Technician,1267 Kalamazoo Ave SE,,MI,49507,GRR,2017-11-29 21:31:18
+Panama City,Pep Boys Panama City,821 W 23rd St,,FL,32405,ECP,2017-11-29 21:31:17
+Warren,Hawthorn Suites By Wyndham,30180 N Civic Center Dr,,MI,48093,DTW,2017-11-29 21:31:18
+Bishop,Bishop Radiator & Auto Repair,1280 N Main St,,CA,93514,ECA,2017-11-29 21:31:26
+Lincoln,AAMCO Lincoln -  Adams St,3645 Adams Street,,NE,68504,LNK,2017-11-29 21:31:23
+Fridley,Victory Auto Service & Glass Fridley,1010 Osborne Rd. NE,,MN,55432,MSP,2017-12-05 00:11:16
+Fairfax,Kena Shriners,9001 Arlington Blvd,,VA,22031,DCA,2017-02-13 23:19:39
+Paterson,Pep Boys - Paterson,261 McLean Blvd,,NJ,7504,NYC,2017-01-26 23:17:49
+Detroit,James Martin Chevrolet,6250 Woodward Ave,,MI,48202,DTW,2017-07-06 19:16:30
+Normal,Meineke Normal,1500 East Vernon Ave,,IL,61761,BMI,2017-06-27 00:45:47
+Napa,Meineke - Napa,713 Silverado Trail,,CA,94556,STS,2017-06-27 00:45:12
+Willingboro,Pep Boys - Edgewater Park NJ,2176 Rte 130,,NJ,8046,NYC,2017-02-02 18:03:35
+Minneapolis,Victory Auto Service & Glass Brooklyn Park,8098 Brooklyn Blvd,,MN,55445,MSP,2017-12-04 16:47:13
+Tallahassee,Pep Boys - 2353 Apalachee Parkway,2353 Apalachee Parkway,,FL,32301,TLH,2017-11-29 21:31:20
+San Luis Obispo,Big Brand Tire - San Luis Obispo,3577 S Higuera S,,CA,93401,SBP,2017-11-29 21:31:21
+Miami,Abana Auto Parts,222 SW 22 Avenue,,FL,33135,MIA,2017-11-29 21:31:11
+Boulder,Millennium Harvest House Hotel,1345 28th Street,,CO,80302,DEN,2017-11-29 21:31:09
+Daly City,Daly City - Wheel Works,5 Skyline Plaza,,CA,94015,SFO,2017-11-29 21:31:16
+Manteca,Les Schwab Tire Center - Manteca,1240 W Yosemite Ave,,CA,95337,SCK,2017-11-29 21:31:21
+West St. Paul,Bobby & Steve's - West St. Paul (NO LYFT REP.),1820 South Robert St.,,MN,55118,MSP,2017-11-29 21:31:15
+Glenolden,Pep Boys - N MacDade Blvd,20 N MacDade Blvd,,PA,19036,PHI,2017-11-29 21:31:15
+GILBERT,Discount Tire - Gilbert,2623 S MARKET ST,,AZ,85295,PHX,2017-11-29 21:31:19
+Pinetop,Time Storms Services Center,691 E White Mountain Blvd,,AZ,85935,EAZ,2017-11-29 21:31:26
+Tacoma,Comfort Inn Tacoma,8620 S Hosmer St,,WA,98444,SEA,2017-11-22 20:48:09
+Huntsville,3030 SOUTH MEMORIAL PARKWAY,3030 SOUTH MEMORIAL PARKWAY,,AL,35801,HSV,2017-08-03 21:53:49
+Tacoma,Comfort Inn,8620 S Hosmer St,,WA,98444,TAC,2017-01-20 16:51:40
+Jersey City,Pep Boys - Hudson Mall,701 NJ-440,,NJ,7304,NYC,2017-01-26 23:51:21
+Ann Arbor,Washtenaw Community College- Gunder Myran Building,4800 E. Huron River Drive,,MI,48105,ARB,2017-07-21 15:01:28
+Miami,DJ Body Shop,3582 NW 52nd Street,,FL,33127,MIA,2016-11-17 19:22:21
+Covina,Pep Boys - Covina,1240 N Azusa,,CA,91722,SBD,2017-12-04 04:58:30
+Oak Lawn,Pep Boys (Oak Lawn),4143 W. 95th St.,,IL,60453,CHI,2017-12-04 22:51:38
+Lombard,Pep Boys (Lombard),851 E Roosevelt Rd,,IL,60148,CHI,2017-12-04 22:51:30
+Covina,Pep Boys - Covina,1240 N Azusa,,CA,91722,LAX,2017-12-04 04:58:30
+Salinas,Firestone - Salinas,150 Northridge Shopping Ctr,,CA,93906,MRY,2017-11-29 21:31:23
+Los Angeles,Pep Boys - Fountain Ave,3904 Fountain Ave,,CA,90029,LAX,2017-11-29 21:31:32
+Concord,Concord - Wheel Works,1410 Concord Ave,,CA,94520,SFO,2017-11-29 21:31:26
+Sunrise,Weston Tire And Auto,15740 W State Rd 84,,FL,33326,MIA,2017-11-29 21:31:20
+Goodyear,Pep Boys - Goodyear,660 N. Dysart,,AZ,85338,PHX,2017-11-29 21:31:20
+Castle Rock,Rock Church,4881 Cherokee Drive,,CO,80109,DEN,2017-11-29 21:31:30
+Paso Robles,Jiffy Lube - Paso Robles,200 Oak Hill Rd,,CA,93446,SBP,2017-11-29 21:31:27
+Mill Valley,Jiffy Lube - Mill Valley,374 Miller Ave,,CA,94941,SFO,2017-11-29 21:31:28
+Silver Spring,Silver Spring CVS,9520 Georgia Ave,,MD,20910,DCA,2017-11-29 21:31:20
+San Luis Obispo,JC Automotive - San Luis Obispo,2923 S Higuera St,,CA,93401,SBP,2017-11-29 21:31:27
+Tacoma,Red Lion Tacoma,8402 S Hosmer St,,WA,98444,TAC,2017-11-29 21:31:09
+Alexandria,Wiygul Automotive - Alexandria,310 S. Pickett St.,,VA,22304,DCA,2017-04-12 19:05:09
+Oak Lawn,Pep Boys Oak Lawn (new),4143 W. 95th St.,,IL,60453,CHI,2017-08-17 20:31:43
+Gainesville,Pep Boys Gainesville,7725 W Newberry Rd,,FL,32606,GNV,2017-11-29 21:31:22
+Houghton,Goodwin Motors,46445 US-41,,MI,49931,MQT,2017-11-29 21:31:25
+MADISON,National Tire & Battery Madison - Hwy 72,7521 HIGHWAY 72 W,,AL,35758,HSV,2017-11-29 21:31:23
+Safford,Smith & Taylor Automotive,415 S 8th Ave,,AZ,85546,EAZ,2017-11-29 21:31:25
+Los Angeles,Pep Boys - Washington Blvd,1200 W Washington Blvd,,CA,90015,LAX,2017-11-29 21:31:29
+Ann Arbor,Advanced Auto Pars,2015 West Stadium Boulevard,,MI,48103,ARB,2017-11-29 21:31:09
+Wood Ridge,Dunkin' Donuts - Wood Ridge,699 Avalon Drive,,NJ,7075,NYC,2017-11-29 21:31:09
+Minneapolis,Reschedule Pool (NO LYFT REPRESENTATIVE),5801 Nicollet Ave. S.,,MN,55419,MSP,2017-12-05 15:00:14
+Portland,PDX Hub,2712 N Mississippi Ave,,OR,97227,PDX,2017-12-05 06:01:55
+Albuquerque,Pep Boys - San Mateo Blvd.,5651 San Mateo Blvd. NE,,NM,87109,ABQ,2017-05-24 23:15:46
+San Luis Obispo,JC Automotive,2923 S Higuera St,,CA,93401,SBP,2017-09-07 19:46:21
+Fresno,Fresno - Pep Boys (Kings Canyon),5615 E Kings Canyon Rd,,CA,93727,FAT,2017-11-29 21:31:27
+Folsom,Folsom - Midas,50 Montrose Dr,,CA,95630,SMF,2017-11-29 21:31:27
+Tallahassee,Pep Boys - Capital Circle Ne,2237 Capital Circle Ne,,FL,32308,TLH,2017-11-29 21:31:08
+San Francisco,Jiffy Lube - Geary Blvd,6099 Geary Blvd,,CA,94121,SFO,2017-11-29 21:31:29
+Lexington,TECHNET Lexington - Quality Car Sales and Services,656 Two Notch Rd.,,SC,29073,CAE,2017-11-29 21:31:24
+Columbia Heights,Bobby & Steves Columbia Heights,3828 Central Ave. N.E.,,MN,55421,MSP,2017-11-29 21:31:11
+Elk Grove,Elk Grove - Firestone,8055 Orchard Loop LN,,CA,95624,SMF,2017-11-29 21:31:32
+Columbia Heights,Bobby & Steves Columbia Heights,3828 Central Ave. N.E.,,MN,55421,MSP,2017-11-29 21:31:11
+Chico,Pep Boys - Chico,1555 Mangrove Ave,,CA,95926,CIC,2017-11-29 21:31:24
+Homewood,Pep Boys Homewood,804 Greensprings Highway,,AL,35209,BHM,2017-11-29 21:31:17
+Albuquerque,Pep Boys - San Mateo Blvd,5651 San Mateo Blvd. NE,,NM,87109,ABQ,2017-11-29 21:31:23
+Ypsilanti,Midas of Ypsilanti,404 E Michigan Ave.,,MI,48198,ARB,2017-11-29 21:31:24
+Manteca,Meineke Car Care Center - Manteca,185 S Union Rd,,CA,95337,SCK,2017-05-10 23:42:09
+Piscataway,Pep Boys - Piscataway,1052 Stelton Road,,NJ,8854,NYC,2017-01-28 16:50:31
+San Diego,Lyft Hot Spot - Miramar,8999 Activity Rd,,CA,92126,SAN,2017-10-20 18:11:35
+Lodi,Pep Boys -- Lodi,1401 S Cherokee Ln,,CA,95240,SCK,2017-03-24 21:41:42
+Grand Rapids,Berger Chevrolet,2525 28th St SE,,MI,49512,GRR,2017-11-29 21:31:17
+San Bruno,Midas - San Bruno,700 El Camino Real,,CA,94066,SFO,2017-11-29 21:31:29
+Mount Pleasant,National Tire & Battery Mount Pleasant - Hwy 17 N,1820 HIGHWAY 17 NORTH,,SC,29464,CHS,2017-11-29 21:31:33
+Casa Grande,Pep Boys - Casa Grande,930 E Florence Blvd,,AZ,85122,PHX,2017-11-29 21:31:20
+San Diego,Pep Boys -- Normal Heights,3550 El Cajon Blvd,,CA,92104,SAN,2017-11-29 21:31:34
+Albuquerque,Pep Boys - Juan Tabo Blvd,1308 Juan Tabo Blvd NE,,NM,87112,ABQ,2017-11-29 21:31:25
+Riverdale,Elks Lodge - Hyattsville MD,6700 Kenilworth Ave,,MD,20737,DCA,2017-11-29 21:31:13
+Stockton,Pep Boys - Stockton,4987 N W Ln,,CA,95210,SCK,2017-11-29 21:31:30
+Mankato,Autotronics,927 N Riverfront Dr.,,MN,56001,MKT,2017-12-04 23:59:45
+Riverside,Pep Boys - Riverside,10831 Magnolia Ave,,CA,92505,OCX,2017-12-04 04:47:58
+BLUFFTON,National Tire & Battery Blufftown - Island Rd,1176 FORDING ISLAND ROAD,,SC,29910,CHS,2017-11-29 21:31:24
+San Luis Obispo,Rizzoli's Automotive,2584 Victoria Ave,,CA,93401,SBP,2017-11-29 21:31:12
+Lansing,Town & Country Auto,6227 W Mount Hope Hwy,,MI,48917,LAN,2017-11-29 21:31:18
+Show Low,Harris Automotive,640 E Old Linden Rd,,AZ,85901,EAZ,2017-11-29 21:31:25
+Vacaville,Big O Tires - Vacaville,1221 E Monte Vista Ave,,CA,95688,STS,2017-11-29 21:31:24
+Covina,Covina,1240 N Azusa,,CA,91722,LAX,2017-11-29 21:31:31
+Gilroy,Meineke - Gilroy,190 Welburn Ave,,CA,95020,CRZ,2017-11-29 21:31:22
+Solvang,Jim's Service Center - Solvang,2015 Mission Dr,,CA,93463,SBP,2017-11-29 21:31:15
+Talleyville,Pep Boys - Concord Pike: Delaware,2904 Concord Pike,,DE,19803,PHI,2017-11-29 21:31:16
+San Francisco,Midas - Geary Blvd,4419 Geary Blvd,,CA,94118,SFO,2017-11-29 21:31:29
+Winter Park,Winter Park Mountain Lodge,81699 US-40,,CO,80482,BRK,2017-11-29 21:31:15
+Lincoln,Midas Lincoln,7030 O Street,,NE,68510,LNK,2017-11-29 21:31:31
+COLUMBIA,National Tire & Battery Columbia - Harbison Blvd,183 HARBISON BLVD,,SC,29212,CAE,2017-11-29 21:31:23
+Chula Vista,Pep Boys - Broadway CV,454 Broadway,,CA,91910,SAN,2017-11-13 17:49:32
+Napa,Les Schwab - Napa,830 W Imola Ave,,CA,94559,STS,2017-05-10 23:10:59
+Fresno,Jiffy Lube  - Fresno,3896 N Blackstone Ave,,CA,93726,FAT,2017-05-16 19:22:36
+Tuscaloosa,Tuscaloosa,3025 Mcfarland Blvd,,AL,35405,TCL,2017-02-13 23:32:28
+Lombard,Pep Boys Lombard (new),851 E Roosevelt Rd,,IL,60148,CHI,2017-08-17 20:35:48
+Toronto,Candian Tire,839 Yonge Street,,ON,M4W 2H2,YTZ,2017-11-07 17:34:22
+Fresno,Pep Boys - North Fresno,3655 N Blackstone Ave,,CA,93726,FAT,2017-02-06 23:00:43
+Vallejo,Pep Boys -- Gateway Plaza Vallejo,Gateway Plaza 128 Plaza Dr Vallejo CA 94591,,CA,94591,STS,2017-02-27 22:08:57
+St. Petersburg,The Tire Choice,456 Dr MLK Jr St N,,FL,33705,TPA,2017-02-27 14:53:32
+King City,My Auto Repair - King City,45336 Los Ositos Rd,,CA,93930,MRY,2017-09-07 18:24:59
+San Diego,Pep Boys Normal Heights,3550 El Cajon Blvd,,CA,92104,SAN,2017-11-29 21:31:11
+Grand Rapids,Tamminga Garage,1109 Michigan St NE,,MI,49503,GRR,2017-11-29 21:31:17
+Aurora,Pep Boys - Aurora,2945 Kirk Rd,,IL,60502,CHI,2017-11-29 21:31:33
+Englewood,Metro Express Car Wash (look for the Lyft sign),4095 S Santa Fe Dr.,,CO,80110,DEN,2017-11-29 21:31:32
+Grand Rapids,Hubachs Service,7530 Division Ave S,,MI,49548,GRR,2017-11-29 21:31:17
+St. Petersburg,JC Automotive Service Inc.,6101 Dr M.L.K. Jr St S,,FL,33705,TPA,2017-11-29 21:31:24
+Albuquerque,Pep Boys - Central Ave,4523 Central Ave NW,,NM,87105,ABQ,2017-11-29 21:31:30
+Ann Arbor,Belle Tire Ann Arbor W. Ellsworth Rd.,590 W Ellsworth Road,,MI,48108,ARB,2017-04-13 17:41:01
+Jersey City,Pep Boys - Jersey City Hudson Mall,701 NJ-440,,NJ,7304,NYC,2017-01-27 01:09:24
+Santa Ana,Pep Boys - Santa Ana,120 E First St.,,CA,92701,OCX,2017-12-04 04:48:18
+Fairfield,Jiffy Lube - Fairfield,1330 Holiday Ln,,CA,94534,STS,2017-11-29 21:31:25
+Brandon,Meineke Car Care Center - Brandon,606 E Brandon Blvd,,FL,33511,TPA,2017-11-29 21:31:12
+Cameron Park,Cameron Park - Big O Tires,3321 Durock Rd,,CA,95682,SMF,2017-11-29 21:31:26
+Portland,Lyft Hot Spot East,8225 NE Wasco Street,,OR,97220,,2017-11-29 21:31:09
+Citrus Heights,Citrus Heights - Goodyear,7986 Greenback Ln,,CA,95610,SMF,2017-11-29 21:31:26
+Panama City Beach,Pep Boys Panama City Beach,8113 Front Beach Rd,,FL,32407,ECP,2017-11-29 21:31:16
+City of Industry,Pep Boys - Colima Rd,17811 Colima Rd,,CA,91748,LAX,2017-11-29 21:31:29
+Tallahassee,Auto & Tire Super Service Center (ASSC),2242 Capital Circle NE,,FL,32308,TLH,2017-11-29 21:31:17
+Santa Rosa,AAMCO Santa Rosa - Cleveland Ave,1250 Cleveland Avenue,,CA,95401,STS,2017-11-29 21:31:25
+Stockton,Meineke - Stockton,6970 N W Ln,,CA,95210,SCK,2017-11-29 21:31:20
+North Platte,Ellett's Automotive,111 E 11th St,,NE,69101,WNE,2017-11-29 21:31:26
+Oceanside,AUTO EXPRESS SERVICE,3940 MISSION AVE,,CA,92058,SAN,2017-11-29 21:31:16
+Broomfield,Aloft Hotel Broomfield,8300 Arista Place,,CO,80021,,2017-11-29 21:31:17
+Minneapolis,Bobby & Steve's - (NO LYFT REP.),5801 Nicollet Ave. S.,,MN,55419,MSP,2017-11-13 18:56:47
+Oceanside,Pep Boys - Oceanside,3752 Plaza Dr,,CA,92056,SAN,2017-09-18 15:53:43
+Antioch,Antioch - Midas +1 925-778-3400,1200 Auto Center Dr,,CA,94509,SFO,2017-09-06 22:56:18
+Novato,Big O Tires - Novato,7427 Redwood Blvd,,CA,94945,STS,2017-06-27 00:46:05
+Modesto,Pep Boys -- Modesto,1340 McHenry Ave,,CA,95350,MOD,2017-03-24 21:41:10
+Glenolden,Pep Boys - North MacDade Blvd,20 N MacDade Blvd,,PA,19036,PHI,2017-02-07 21:33:20
+Cathedral City,Pep Boys - Cathedral City,31-505 Date Palm Dr,,CA,92234,SBD,2017-10-26 19:18:53
+Mankato,Mankato Oil & Tire,1771 Bassett Dr.,,MN,56001,MKT,2017-12-04 23:59:49
+Richmond Hill,Canadian Tire,250 Silver Linden Drive,,ON,L4B 4W7,YYZ,2017-11-29 21:31:42
+San Francisco,The Lyft Support Hub,2300 26th Street,,CA,94107,SJC,2017-11-29 21:31:31
+MADISON,National Tire & Battery Madison - Madison Blvd,8755 MADISON BLVD,,AL,35758,HSV,2017-11-29 21:31:24
+Ft Collins,AAMCO Ft. Colins - S Mason St,3737 South Mason Street,,CO,80525,FNL,2017-11-29 21:31:22
+Ypsilanti,Belle Tire (Ypsilanti),3250 Carpenter Road,,MI,48197,ARB,2017-11-29 21:31:14
+Paso Robles,Big Brand Tire - Paso Robles,91 Cary St.,,CA,93446,SBP,2017-11-29 21:31:11
+Marquette,Southside Automotive,6580 US 41 South,,MI,49855,MQT,2017-11-29 21:31:25
+Round Lake Beach,Pep Boys - Round Lake Beach,818 E Rollins Rd,,IL,60073,CHI,2017-11-29 21:31:29
+Boulder,Boulder Public Library - Main Branch,1001 Arapahoe Avenue,,CO,80302,DEN,2017-11-29 21:31:19
+Northridge,Lyft Hotspot,17046 Superior Street,,CA,91325,LAX,2017-11-29 21:31:35
+Yakima,Yakima Automotive,1205 S 18th St,,WA,98901,YKM,2017-11-29 21:31:15
+Miami,Plaza Tire & Auto Center,3005 NE 2nd Ave,,FL,33137,MIA,2017-11-29 21:31:23
+Roswell,Eddies Auto Repair,908 E McGaffey St,,NM,88203,ROW,2017-11-29 21:31:26
+Taylors,AAMCO Taylors - Wade Hampton Blvd,2918 Wade Hampton Boulevard,,SC,29687,GSP,2017-11-29 21:31:28
+Victorville,Pep Boys Victorville,14475 7th St,,CA,92395,VCV,2017-11-29 21:31:11
+COLUMBIA,National Tire & Battery Columbia - Garners Ferry Rd,7422 GARNERS FERRY ROAD,,SC,29209,CAE,2017-11-29 21:31:24
+Fairfield,Meineke - Fairfield,1525-B Holiday Lane,,CA,94534,STS,2017-11-29 21:31:24
+Sunnyvale,MBS Inspections - Sunnyvale,830 Stewart Drive,,CA,94085,SJC,2017-11-29 21:31:31
+Fresno,Pep Boys - Downtown Fresno,716 Broadway St Fresno,,CA,93721,FAT,2017-11-29 21:31:21
+Ham Lake,Victory Auto - Ham Lake,16326 Highway 65 NE,,MN,55304,MSP,2017-08-24 19:46:28
+Philadelphia,Pep Boys - Stenton Ave.,6200 Stenton Ave.,,PA,19138,PHI,2017-02-07 20:21:32
+Tucson,Pep Boys Tucson - W Ina Rd,4275 W Ina Rd,,AZ,85741,TUS,2017-11-29 21:31:24
+Sebastopol,Big O Tires - Sebastopol,742 S Main St,,CA,95472,STS,2017-11-29 21:31:20
+Basalt,Element Basalt - Aspen,499 Market St,,CO,81621,ASP,2017-11-29 21:31:24
+Stockton,Jiffy Lube - Stockton (E Hammer Ln),1648 E Hammer Ln,,CA,95210,SCK,2017-11-29 21:31:20
+San Jose,Pep Boys - tent near the mechanic bays,2730 Story Rd,,CA,95127,,2017-11-29 21:31:08
+Jersey City,Bethune Center - Jersey City NJ,140 Martin Luther King Drive,,NJ,7305,NYC,2017-11-29 21:31:09
+Santa Cruz,Jiffy Lube - Santa Cruz,1705 Soquel Ave,,CA,95062,CRZ,2017-11-29 21:31:27
+Tempe,Pep Boys - Tempe,1747 E Apache Blvd,,AZ,85281,PHX,2017-11-29 21:31:14
+Fontana,Pep Boys - Fontana,16711 Valley Blvd,,CA,92335,SBD,2017-11-29 21:31:29
+Chicago,Pep Boys - Elston,2604 N Elston Ave,,IL,60647,CHI,2017-11-29 21:31:15
+Cerritos,Pep Boys -- Cerritos,11944 South St,,CA,90703,OCX,2017-11-01 18:34:48
+Detroit,Onboarding Location Hawthorn Suites By Wyndham Dearborn/Detroit MI,5777 Southfield Freeway,,MI,48228,DTW,2017-03-16 13:38:10
+Redwood City,Big O Tires - Redwood City,2310 El Camino Real,,CA,94063,SFO,2017-11-29 21:31:29
+Colorado Springs,AAMCO Colorado Springs - W. Garden of the Gods Rd,432 W. Garden of the Gods Road,,CO,80907,COS,2017-11-29 21:31:15
+Tampa,Pep Boys - Hillsborough Ave,3933 W Hillsborough Ave,,FL,33614,TPA,2017-11-29 21:31:11
+Huntsville,National Tire & Battery Huntsville - Memorial Pkwy,3030 SOUTH MEMORIAL PARKWAY,,AL,35801,HSV,2017-11-29 21:31:24
+Minneapolis,Bobby & Steve's Nicollet,5801 Nicollet Ave,,MN,55419,MSP,2017-11-29 21:31:11
+Ann Arbor,Washtenaw Community College- Gunder Myran,4800 E. Huron River Drive,,MI,48105,ARB,2017-11-29 21:31:14
+Myrtle Beach,Meineke - George Bishop Pkwy,362 George Bishop Pkwy,,SC,29579,MYR,2017-11-29 21:31:17
+Santa Maria,Pep Boys Santa Maria,1723 S Broadway,,CA,93454,SBP,2017-11-29 21:31:23
+Portland,EAST PORTLAND- Lyft Hot Spot,8225 NE Wasco Street,,OR,97220,PDX,2017-11-29 21:31:09
+Spartanburg,AAMCO Spartanburg - W Main St,659 West Main Street,,SC,29301,GSP,2017-11-29 21:31:23
+Joliet,Pep Boys - Joliet,1824 W Jefferson St,,IL,60435,CHI,2017-11-29 21:31:29
+Jersey City,Pep Boys - Jersey City NJ (Hudson Mall),701 NJ-440,,NJ,7304,NYC,2017-11-29 21:31:13
+Audubon,Pep Boys - Audubon,114 E Black Horse Pike,,NJ,8106,NYC,2017-01-26 23:17:00
+Castle Rock,Douglas County Fair Grounds  - Kurk Hall,500 Fairgrounds Rd,,CO,80104,DEN,2017-11-08 18:56:37
+SPOKANE,BOTZONS AUTOMOTIVE,221 S DISHMAN RD,,WA,99206,GEG,2017-07-27 22:01:05
+Denver,Lyft Denver Hub,1401 Zuni St,,CO,80204,DEN,2017-12-01 20:46:28
+Bentonville,Midas,702 S Walton Blvd,,AR,72712,XNA,2017-11-29 21:31:31
+Napa,Napa Tire Inc.,1655 Silverado Trail,,CA,94559,STS,2017-11-29 21:31:21
+Lexington,S&S Tire - Beaumont Center,3070 Fieldstone Way,,KY,40513,LEX,2017-11-29 21:31:36
+Sunnyvale,Pep Boys - Sunnyvale,170 E El Camino Real,,CA,94087,SJC,2017-11-29 21:31:21
+Oakdale,Jiffy Lube - Oakdale,146 N 6th Ave,,CA,95361,MOD,2017-11-29 21:31:20
+Stockton,Les Schwab Tire Center - Stockton,3554 E Hammer Ln,,CA,95212,SCK,2017-11-29 21:31:20
+Landover Hills,Pep Boys - Landover Hills,6825 Annapolis Rd,,MD,20784,DCA,2017-11-29 21:31:17
+Ann Arbor,Midas of Ann Arbor (Jackson),2395 Jackson Avenue,,MI,48103,ARB,2017-11-29 21:31:16
+Comstock Park,Pep Boys Comstock Park,3737 Alpine Ave NW,,MI,49321,TVC,2017-11-29 21:31:15
+San Diego,Pep Boys NH,3550 El Cajon Blvd,,CA,92104,SAN,2017-11-29 21:31:35
+Chicago,SEARS TOWER,233 S Wacker Dr,,IL,60606,CHI,2017-11-29 21:31:10
+Greenville,Pep Boys Greenville,2418 Laurens Rd,,SC,29607,GSP,2017-11-29 21:31:13
+Piscataway,Pep Boys - Piscataway NJ,1052 Stelton Road,,NJ,8854,NYC,2017-11-29 21:31:13
+BIRMINGHAM,National Tire & Battery Birmingham - Hwy 208 E,4631 HIGHWAY 280 EAST,,AL,35242,BHM,2017-11-29 21:31:23
+Escondido,Pep Boys - Escondido,855 W Mission Ave,,CA,92025,SAN,2017-11-29 21:31:35
+Benicia,Benicia - Big O Tires,415 Military E,,CA,94510,SFO,2017-11-29 21:31:26
+Spring Valley,Pep Boys - Spring Valley,8888 Jamacha Blvd,,CA,91977,SAN,2017-11-13 17:49:00
+Thornton,Holiday Inn Express Express & Suites - North Denver/Thornton,12030 Grant Street,,CO,80241,DEN,2017-08-23 22:08:08
+Piscataway,Pep Boys - New Brunswick,1052 Stelton Road,,NJ,8854,NYC,2017-01-26 23:13:49
+San Luis Obispo,Big Brand Tire,3577 S Higuera S,,CA,93401,SBP,2017-01-10 21:26:06
+Costa Mesa,Pep Boys - Costa Mesa,2946 Bristol St,,CA,92626,OCX,2017-11-29 21:31:34
+Clearlake,Clear Lake - Big O Tires,15195 Lakeshore Dr,,CA,95422,YAS,2017-11-29 21:31:15
+Annandale,Pep Boys - Annandale,7121 Little River Turnpike,,VA,22003,DCA,2017-11-29 21:31:13
+Tucson,Pep Boys Tucson - E 22nd St,7227 E 22nd St,,AZ,85710,TUS,2017-11-29 21:31:25
+Goleta,Jiffy Lube - Goleta,6015 Hollister Ave,,CA,93117,SBA,2017-11-29 21:31:26
+Arbuckle,Arbuckle - Arbuckle Service Center,401 Olive St,,CA,95912,SMF,2017-11-29 21:31:26
+San Jose,Eastridge Center,2200 Eastridge Loop,,CA,95122,SJC,2017-11-29 21:31:26
+Hanford,Pep Boys - Hanford,1840 W Lacey Blvd,,CA,93230,FAT,2017-11-29 21:31:28
+St. Petersburg,Victory Automotive Service,3001 Dr. MLK Jr St N,,FL,33704,TPA,2017-11-29 21:31:18
+Fresno,Jiffy Lube (N Blackstone Ave) - Fresno,3896 N Blackstone Ave,,CA,93726,FAT,2017-05-11 00:03:33
+Yuma,Pep Boys Yuma,155 E 32nd St,,AZ,85364,YUM,2017-11-29 21:31:11
+Waldorf,Pep Boys - Waldorf,3390 Crain Hwy,,MD,20603,BWI,2017-11-29 21:31:20
+Mesa,Pep Boys - Mesa,1233 S Country Club Dr,,AZ,85210,PHX,2017-11-29 21:31:21
+Chico,Pep Boys Chico,1555 Mangrove Ave,,CA,95926,ACV,2017-11-29 21:31:15
+Huntsville,AAMCO Huntsville - Putnam Dr,1007 Putnam Drive,,AL,35816,HSV,2017-11-29 21:31:08
+San Jose,Lyft Tent in Parking Lot Behind South Bay Church,1188 Murphy Avenue,,CA,95131,SJC,2017-11-29 21:31:11
+Omaha,AAMCO Transmissions & Total Car Care,5254 S. 133rd Court,,NE,68137,OMA,2017-11-29 21:31:32
+Tucson,Pep Boys Tucson - W Ina Rd.,4275 W Ina Rd,,AZ,85741,TUS,2017-07-25 20:15:49
+Stockton,Jiffy Lube (E Hammer Ln),1648 E Hammer Ln,,CA,95210,SCK,2017-05-10 22:13:18
+Minneapolis,Bobby & Steve's - South Minneapolis $35 (NO LYFT REP.),5801 Nicollet Ave. S.,,MN,55419,MSP,2017-10-20 14:31:04
+San Diego,Pep Boys - Normal Heights,3550 El Cajon Blvd,,CA,92104,SAN,2017-10-20 18:11:22
+Santa Cruz,Mission Auto Care,823 Mission Street,,CA,95060,CRZ,2016-12-09 02:24:36
+Tampa,Pep Boys - North Florida Avenue,10124 N Florida Ave,,FL,33612,TPA,2016-12-02 22:14:00
+San Jose,Parking lot behind South Bay Church,1188 Murphy Avenue,,CA,95131,SJC,2016-10-24 17:32:19
+Eastpointe,Pep Boys,24600 Gratiot Ave,,MI,48021,DTW,2017-12-04 22:04:54
+Pinellas Park,Pep Boys - Park Blvd,6492 Park Blvd,,FL,33781,TPA,2017-11-29 21:31:11
+Ann Arbor,Free Inspection at Washtenaw Community College- Gunder Myran Building,4800 E. Huron River Drive,,MI,48105,ARB,2017-11-29 21:31:28
+Grand Junction,Jeff's Automotive Service & Repair,490 28 1/4 Rd,,CO,81501,GJT,2017-11-29 21:31:08
+Clovis,Pep Boys - Clovis,693 W Shaw Ave,,CA,93612,FAT,2017-11-29 21:31:13
+Kettleman City,Midway Auto Repair - Kettleman,27627 Bernard Dr,,CA,93239,BFL,2017-11-29 21:31:27
+Los Angeles,Pep Boys - Pico Blvd,10644 W Pico Blvd,,CA,90064,LAX,2017-11-29 21:31:31
+Lexington,AAMCO Lexington - N Lake Dr,520 North Lake Drive,,SC,29072,CAE,2017-11-29 21:31:23
+HILTON HEAD,National Tire & Battery Hilton Head - Beach City Rd,144 BEACH CITY RD,,SC,29926,CHS,2017-11-29 21:31:23
+Cicero,Pep Boys - Cicero,2501 S Cicero Ave,,IL,60804,CHI,2017-11-29 21:31:28
+LEXINGTON,National Tire & Battery Lexington - S Lake Dr,1810 SOUTH LAKE DR,,SC,29073,CAE,2017-11-29 21:31:27
+FLINT,TECHNET Flint - Shelton's Service Center,921 UNIVERSITY AVE,,MI,48504,FNT,2017-11-29 21:31:27
+Tuscaloosa,AAMCO Tuscaloosa - McFarland Blvd,3017 McFarland Boulevard E,,AL,35401,TCL,2017-11-29 21:31:14
+Hodgkins,Pep Boys - Hodgkins,6247 South La Grange Road,,IL,60525,CHI,2017-11-29 21:31:35
+Duluth,Allstar Service,Miller Hill Mall 1600 Miller Trunk Hwy,,MN,55811,DLH,2017-11-29 21:31:08
+Fresno,Fresno - Pep Boys (Blackstone),3655 N Blackstone Ave,,CA,93726,FAT,2017-11-29 21:31:27
+Apple Valley,Midas Apple Valley (no Lyft rep. present),15455 South Cedar Avenue,,MN,55124,MSP,2017-08-24 16:13:05
+Chicago,Pep Boys Elston (new),2604 N Elston Avenue,,IL,60647,CHI,2017-08-17 20:26:53
+Charleston,Pep Boys Charleston,1550 Savannah Hwy,,SC,29407,CHS,2016-12-15 18:17:58
